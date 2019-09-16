@@ -1,0 +1,117 @@
+.sc_button {
+	background-position:center center;
+	background-repeat:no-repeat;
+	background-size:contain;
+	overflow:hidden;
+	background-color: #efa758;
+	color: #fff;
+}
+
+
+.sc_button.sc_button_size_small {
+	padding: 0.959em 2.3em;
+	font-size: 12px;
+}
+.sc_button.sc_button_size_small .sc_button_icon img {
+	max-height:1.6em;
+	width: auto;
+}
+.sc_button.sc_button_size_normal .sc_button_icon img {
+	max-height:2.5em;
+	width: auto;
+}
+.sc_button.sc_button_size_large .sc_button_icon img {
+	max-height:4em;
+	width: auto;
+}
+.sc_button.sc_button_size_large {padding: 1.6em 3.1em;}
+.sc_button_icon,
+.sc_button_text {
+	display:inline-block;
+	vertical-align:middle;
+}
+.sc_button_icon {
+	font-weight:400;
+	font-style:normal;
+}
+.sc_button_icon_left .sc_button_icon {
+	margin-right: 0.8em;
+}
+.sc_button_icon_right .sc_button_icon {
+	float:right;
+	margin-left: 0.8em;
+}
+.sc_button_icon_top .sc_button_icon {
+	display:block;
+	margin-bottom: 0.25em;
+	text-align:center;
+}
+.sc_button_subtitle {
+	font-size:0.85em;
+	line-height:1.25em;
+	text-transform:none;
+	display:block;
+}
+
+.sc_button_bg_image {
+	position:relative;
+	background-position:center center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.sc_button_bg_image .sc_button_text {
+	position:relative;
+	z-index: 2;
+}
+.sc_button_bg_image:before {
+	content: ' ';
+	position:absolute;
+	z-index:1;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background-color:rgba(0,0,0,0.5);
+}
+.sc_button_bg_image:hover:before {
+	background-color:rgba(0,0,0,0.75);
+}
+.sc_button.sc_button_play {
+    color: #a89994 !important;
+}
+.sc_button.sc_button_play {
+    padding: 0;
+    font-size: 13px;
+    text-align: center;
+    background-color: transparent !important;
+}
+.sc_button.sc_button_play:before {
+	content: '\e91f';
+	font-family: fontello;
+	display: block;
+	margin: 3px auto 1.3em;
+	font-size: 15px;
+	width: 4.33rem;
+	height: 4.33rem;
+	line-height: 4.53rem;
+	border: 1px solid #ece8e7;
+	border-radius: 50%;
+	color: #a89994 !important;
+	box-shadow: 0 0 0px 3px #fcfcfc;
+}
+.sc_button.sc_button_play .sc_button_text{
+	display: block;
+}
+@media all and (-ms-high-contrast:none)
+{
+	.sc_button.sc_button_play:before { /* IE10 */
+		width: 5.23em;
+		height: 5.23em;
+		line-height: 5.23em;
+	}
+	*::-ms-backdrop, .sc_button.sc_button_play:before { /* IE11 */
+		width: 5.23em;
+		height: 5.23em;
+		line-height: 5.23em;
+	}
+}

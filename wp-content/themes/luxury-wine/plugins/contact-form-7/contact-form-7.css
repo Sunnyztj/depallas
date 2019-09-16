@@ -1,0 +1,81 @@
+/*--------------Contact Form 7-----------------*/
+form.wpcf7-form textarea,
+form.wpcf7-form input[type="text"]{
+    width: 100%;
+}
+
+
+form.wpcf7-form .row {
+    padding-bottom: 1.3em;
+    margin-right: 0;
+}
+
+form.wpcf7-form textarea{
+    height: 6em;
+}
+form.wpcf7-form input[type="checkbox"],
+form.wpcf7-form input[type="submit"]{
+    width: auto;
+}
+form.wpcf7-form input[type="submit"] {
+    padding: 0.959em 2.3em;
+    font-size: 12px;
+}
+
+form.wpcf7-form .acceptance-157 span.wpcf7-list-item {
+    margin: 0.3em 0 1.7em 0;
+    display: block;
+    position: relative;
+    line-height: 1em;
+}
+
+
+
+form.wpcf7-form .ajax-loader {
+    display: none;
+}
+form.wpcf7-form .wpcf7-wpgdprc span.wpcf7-list-item-label,
+form.wpcf7-form .acceptance-157 span.wpcf7-list-item-label {
+    padding-left: 1.5em;
+    display: block;
+    font-size: 1em;
+    line-height: 1.5em;
+}
+form.wpcf7-form .wpcf7-wpgdprc span.wpcf7-list-item-label {
+    padding-left: 0.5em;
+}
+
+
+
+form.wpcf7-form .flex {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+form.wpcf7-form .itm {
+    flex-basis: 48%;
+}
+
+
+@media (max-width: 479px){
+    form.wpcf7-form .flex {
+        flex-direction: column;
+    }
+}
+
+
+form.wpcf7-form .sc_form_field_submit{
+    text-align: center;
+}
+
+
+form.wpcf7-form .wpcf7-wpgdprc input[name="wpgdprc"]{
+    display: block;
+    z-index: 1;
+    opacity: 0;
+}
+
+form.wpcf7-form .wpcf7-form-control-wrap.wpgdprc{
+    display: block;
+    text-align: left;
+}

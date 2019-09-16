@@ -1,0 +1,55 @@
+/* Essential Grid styles
+----------------------------------------------------------------- */
+.esg-grid i[class*="eg-icon-"] {
+	color: #fff;
+}
+.esg-grid a:hover i[class*="eg-icon-"] {
+	/* color: #000; */
+}
+
+.flat-light .esg-filters .esg-sortbutton-order,
+.flat-light .esg-filters .esg-cartbutton-order {
+	line-height:36px;
+	margin:0;
+}
+.flat-light .esg-filters .esg-sortbutton {
+	padding-right: 0;
+}
+.minimal-light .esg-grid .esg-filterbutton {
+    background-color: transparent;
+    padding: 0;
+    border: none;
+    line-height: 1.2em;
+    font-size: 13px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0 1.5em;
+    position: relative;
+}
+.minimal-light .esg-grid .esg-filterbutton + .esg-filterbutton:before {
+    content: '';
+    position: absolute;
+    width: 1px;
+    height: 50%;
+    top: 25%;
+    left: 0;
+}
+.minimal-light .esg-grid .esg-filterbutton span:before {
+    content: '\e920';
+    font-family: fontello;
+    display: block;
+    font-size: 3.7em;
+    line-height: 1.55em;
+}
+.minimal-light .esg-grid .esg-filterbutton:hover,
+.minimal-light .esg-grid .esg-filterbutton.selected {
+     background-color: transparent;
+     box-shadow: none;   
+}
+
+.esgbox-opened {
+    z-index: 10001 !important;
+}
+.esgbox-overlay {
+    z-index: 10000 !important;
+}

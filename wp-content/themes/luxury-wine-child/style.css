@@ -1,0 +1,116 @@
+/*
+Theme Name: Luxury Wine Child
+Template: luxury-wine
+Theme URI: http://luxurywine.themerex.net/
+Description: Luxury Wine - excellent WordPress theme with many different blog and header layouts
+Author: ThemeRex
+Author URI: http://themerex.net/
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+.woocommerce div.product p.price {
+    display: none;
+}
+
+.woocommerce div.product form.cart {
+    display: none;
+}
+
+.woocommerce .product_meta span.sku_wrapper {
+    display: none;
+}
+
+.woocommerce .product_meta span.product_id {
+    display: none;
+}
+
+.eg-jason-luxurywine-element-25 {
+	display: none !important;
+}
+
+.pt-20 {
+	padding-top: 20px !important;
+}
+
+.woocommerce ul.products li.product .price {
+	display: none !important;
+}
+
+span.amount {
+	display: none !important;
+}
+
+.woocommerce-loop-product__title {
+    text-align: left ;
+}
+
+.single-product div.product .trx-stretch-width .woocommerce-tabs {
+    display: none;
+}
+
+/*.eg-jason-luxurywine-element-0-a {
+    font-size: 1.533em;
+    line-height: 1.217em;
+    min-height: 2.634em;
+    font-weight: 400;
+    padding: 0;
+    margin: 0 1em;
+}
+*/
+.eg-washington-element-3 {
+    font-size: 1.533em;
+    line-height: 1.217em;
+    min-height: 2.634em;
+    font-weight: 400;
+    padding: 0;
+    margin: 0 1em;
+}
+
+.vc_separator h4 {
+    font-size: 20px;
+    color: #b0b3b9 !important;
+}
+
+.woocommerce_list {
+	display: none !important;
+}
+
+.woocommerce .luxury_wine_shop_mode_buttons a+a, .woocommerce-page .luxury_wine_shop_mode_buttons a+a {
+    display: none;
+}
+
+.woocommerce-product-rating {
+	display: none !important;
+}
+
+.woocommerce .products .star-rating {
+    display: none !important;
+}
+
+.woocommerce-loop-product__title {
+	font-size: 19px !important;
+}
+
+.mb-3 {
+	margin-bottom: 3em !important;
+}
+
+.body-text .sc_item_descr {
+	text-align: left !important;
+}
+
+.header-cover {
+	left: 0 !important;
+	width: auto !important;
+}
+
+.vc_message_box {
+    min-height: 190px;
+}
+
+
+.eg-jason-luxurywine-content {
+    padding: 10px 10px 10px 10px !important;
+}

@@ -1,0 +1,161 @@
+/* Widget: Contacts */
+.widget_contacts p {
+	margin:0;
+}
+.widget_contacts p+p {
+	margin-top:1em;
+}
+.widget_contacts .contacts_logo{margin-top: 0.5em;}
+.widget_contacts .contacts_logo + .contacts_description,
+.widget_contacts .contacts_logo + .contacts_content {
+	margin-top: 2em;
+}
+.footer_wrap .widget_contacts .contacts_description,
+.footer_wrap .widget_contacts .contacts_content {
+	margin-left: auto;
+	margin-right: auto;
+}
+.footer_wrap .columns_wrap .widget_contacts .contacts_description,
+.footer_wrap .columns_wrap .widget_contacts .contacts_content {
+	max-width:none;
+}
+.widget_contacts .contacts_description + .contacts_content,
+.widget_contacts .contacts_socials + .contacts_content {
+	margin-top: 1.5em;
+}
+.widget_contacts .contacts_content .wpb_single_image {
+	display: inline-block;
+	vertical-align:middle;
+	margin-right: 0.5em;
+}
+.widget_contacts .contacts_content aside,
+.widget_contacts .contacts_content widget {
+	margin:0;
+}
+
+.widget_contacts .contacts_logo + .contacts_map_top,
+.widget_contacts .contacts_description + .contacts_map_top {
+	margin-top: 2.5em;
+}
+.widget_contacts .contacts_map_left,
+.widget_contacts .contacts_map_right {
+	overflow: hidden;
+}
+.widget_contacts .contacts_map_left .contacts_info .contacts_left,
+.widget_contacts .contacts_map_left .contacts_info .contacts_right,
+.widget_contacts .contacts_map_right .contacts_info .contacts_left,
+.widget_contacts .contacts_map_right .contacts_info .contacts_right,
+.wpb_column:not(.vc_col-sm-12) .widget_contacts .contacts_info .contacts_left,
+.wpb_column:not(.vc_col-sm-12) .widget_contacts .contacts_info .contacts_right {
+	margin-left: 0 !important;
+	text-align: left;
+}
+.widget_contacts .contacts_map_left .contacts_info .contacts_left span,
+.widget_contacts .contacts_map_right .contacts_info .contacts_left span,
+.wpb_column:not(.vc_col-sm-12) .widget_contacts .contacts_info .contacts_left span {
+	padding-left: 2em;
+	padding-right:0;
+}
+.widget_contacts .contacts_map_left .contacts_info .contacts_left span:before,
+.widget_contacts .contacts_map_right .contacts_info .contacts_left span:before,
+.wpb_column:not(.vc_col-sm-12) .widget_contacts .contacts_info .contacts_left span:before {
+	left: 0;
+	right: auto;
+	text-align:left;
+}
+.widget_contacts .contacts_map_left .contacts_map,
+.widget_contacts .contacts_map_left .contacts_info {
+	float: left;
+	width: 47%;
+}
+.widget_contacts .contacts_map_right .contacts_map,
+.widget_contacts .contacts_map_right .contacts_info {
+	float: right;
+	width: 47%;
+}
+.widget_contacts .contacts_map_left .contacts_info {
+	margin-left: 6%;
+	font-size: 0.8em;
+}
+.widget_contacts .contacts_map_right .contacts_info {
+	margin-right: 6%;
+	font-size: 0.8em;
+}
+
+.widget_contacts .contacts_logo + .contacts_info,
+.widget_contacts .contacts_map_top .contacts_map + .contacts_info,
+.widget_contacts .contacts_description + .contacts_info {
+	margin-top: 2em;
+}
+.widget_contacts .contacts_info {
+	line-height:2.2em;
+	font-size: 0.933em;
+	line-height: 1.7em;
+	font-weight: 400;
+}
+.wpb_column:not(.vc_col-sm-12) .widget_contacts .contacts_info {
+	line-height: inherit;
+}
+.wpb_column:not(.vc_col-sm-12) .widget_contacts .contacts_info span {
+	margin-bottom: 1em;
+}
+.widget_contacts .contacts_info .contacts_left,
+.widget_contacts .contacts_info .contacts_right {
+	display: inline-block;
+	text-align:left;
+	vertical-align:top;
+}
+.widget_contacts .contacts_info .contacts_left {
+	text-align:right;
+}
+.widget_contacts .contacts_info .contacts_left + .contacts_right {
+	margin-left: 3.3333em;
+}
+
+.widget_contacts .contacts_info  > div > span {
+	position:relative;
+	display: table;
+	padding-left: 0;
+	margin-bottom: 1.25em;
+}
+.widget_contacts .contacts_info  > div > span span{
+	display: table-cell;
+	vertical-align: middle;
+}
+.widget_contacts .contacts_info  > div > span .text{
+	padding-left: 1em !important;
+}
+.widget_contacts .contacts_info strong {
+	display:block;
+}
+.widget_contacts .contacts_info .contacts_left span {
+	padding-left: 0;
+	padding-right: 2em;
+}
+.widget_contacts .contacts_info .icon:before {
+	font-family:'trx_addons_icons';
+	font-size: 1em;
+	display: block;
+	width: 2.287em;
+	height: 2.287em;
+	line-height: 2.287em;
+	text-align: center;
+	border: 1px solid;
+	border-radius: 50%;
+	vertical-align: middle;
+}
+.widget_contacts .contacts_info .contacts_left span:before {
+	left:auto;
+	right: 0;
+	text-align:right;
+}
+.widget_contacts .contacts_info span.contacts_email .icon:before {content: '\e83a';font-family: fontello;}
+.widget_contacts .contacts_info span.contacts_skype .icon:before {content: '\e88d';font-family: fontello;}
+.widget_contacts .contacts_info span.contacts_phone .icon:before {content: "\f095";font: normal normal normal 14px/1 FontAwesome;line-height: 2.287em;font-size: 1em;}
+.widget_contacts .contacts_info span.contacts_address .icon:before {	content: '\e8c3'; }
+
+.widget_contacts .contacts_logo + .contacts_socials,
+.widget_contacts .contacts_info + .contacts_socials,
+.widget_contacts .contacts_description + .contacts_socials {
+	margin-top: 1em;
+}

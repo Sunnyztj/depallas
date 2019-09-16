@@ -1,0 +1,5682 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ThemeREX Addons\n"
+"POT-Creation-Date: 2019-04-29 15:44+0300\n"
+"PO-Revision-Date: 2015-10-06 14:20+0300\n"
+"Last-Translator: \n"
+"Language-Team: ThemeREX\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;_n;_n_noop;_x;esc_attr__;"
+"esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: api/bbpress.php:38
+msgid "Forums"
+msgstr ""
+
+#: api/bbpress.php:53
+msgid "BBPress or BuddyPress"
+msgstr ""
+
+#: api/bbpress.php:97
+msgid "Import BBPress and BuddyPress"
+msgstr ""
+
+#: api/bbpress.php:111
+msgid "Clear BBPress and BuddyPress tables"
+msgstr ""
+
+#: api/bbpress.php:145 api/bbpress.php:180
+msgid "BBPress and BuddyPress data"
+msgstr ""
+
+#: api/bbpress.php:224
+msgid "BBPress and BuddyPress"
+msgstr ""
+
+#: api/booked/booked.php:31 api/booked/booked.php:73
+msgid "Booked Appointments"
+msgstr ""
+
+#: api/booked/booked.php:74
+msgid "Display the currently logged in user's upcoming appointments"
+msgstr ""
+
+#: api/booked/booked.php:75 api/booked/booked.php:91
+#: api/calculated-fields-form/calculated-fields-form.php:158
+#: api/content_timeline/content_timeline.php:158
+#: shortcodes/table/table.php:131
+msgid "Content"
+msgstr ""
+
+#: api/booked/booked.php:89
+msgid "Booked Calendar"
+msgstr ""
+
+#: api/booked/booked.php:90
+msgid "Insert booked calendar"
+msgstr ""
+
+#: api/booked/booked.php:100
+msgid "Calendar"
+msgstr ""
+
+#: api/booked/booked.php:101
+msgid "Select booked calendar to display"
+msgstr ""
+
+#: api/booked/booked.php:104
+msgid "- Select calendar -"
+msgstr ""
+
+#: api/booked/booked.php:109
+msgid "Year"
+msgstr ""
+
+#: api/booked/booked.php:110
+msgid "Year to display on calendar by default"
+msgstr ""
+
+#: api/booked/booked.php:118
+msgid "Month"
+msgstr ""
+
+#: api/booked/booked.php:119
+msgid "Month to display on calendar by default"
+msgstr ""
+
+#: api/calculated-fields-form/calculated-fields-form.php:38
+#: api/content_timeline/content_timeline.php:38 api/revslider.php:38
+#: api/trx_donations/trx_donations.php:187 cpt/layouts/layouts_vc.php:27
+#: cpt/layouts/layouts_vc.php:96
+#: cpt/layouts/shortcodes/featured/featured.php:108
+#: includes/plugin.wp.php:1359 includes/plugin.wp.php:1394
+#: includes/plugin.wp.php:1403 includes/plugin.wp.php:1457
+#: includes/plugin.wp.php:1509 includes/plugin.wp.php:1522
+#: includes/plugin.wp.php:1537 includes/plugin.wp.php:1554
+#: includes/plugin.wp.php:1599 includes/plugin.wp.php:1644
+#: includes/plugin.wp.php:1671 includes/plugin.wp.php:1689
+msgid "Inherit"
+msgstr ""
+
+#: api/calculated-fields-form/calculated-fields-form.php:51
+#: api/calculated-fields-form/calculated-fields-form.php:95
+#: api/calculated-fields-form/calculated-fields-form.php:108
+#: api/calculated-fields-form/calculated-fields-form.php:135
+msgid "Calculated Fields Form"
+msgstr ""
+
+#: api/calculated-fields-form/calculated-fields-form.php:81
+msgid "Import Calculated Fields Form"
+msgstr ""
+
+#: api/calculated-fields-form/calculated-fields-form.php:156
+msgid "Calculated fields form"
+msgstr ""
+
+#: api/calculated-fields-form/calculated-fields-form.php:157
+msgid "Insert Calculated Fields Form"
+msgstr ""
+
+#: api/calculated-fields-form/calculated-fields-form.php:167
+msgid "Form ID"
+msgstr ""
+
+#: api/calculated-fields-form/calculated-fields-form.php:168
+msgid "Select Form to insert into current page"
+msgstr ""
+
+#: api/contact-form-7.php:27
+msgid "Contact Form 7"
+msgstr ""
+
+#: api/contact-form-7.php:50
+msgid "Import Contact Form 7"
+msgstr ""
+
+#: api/content_timeline/content_timeline.php:52
+#: api/content_timeline/content_timeline.php:94
+#: api/content_timeline/content_timeline.php:107
+#: api/content_timeline/content_timeline.php:134
+#: api/content_timeline/content_timeline.php:156
+msgid "Content Timeline"
+msgstr ""
+
+#: api/content_timeline/content_timeline.php:80
+msgid "Import Content Timeline"
+msgstr ""
+
+#: api/content_timeline/content_timeline.php:157
+msgid "Insert Content timeline"
+msgstr ""
+
+#: api/content_timeline/content_timeline.php:165
+msgid "Timeline"
+msgstr ""
+
+#: api/content_timeline/content_timeline.php:166
+msgid "Select Timeline to insert into current page"
+msgstr ""
+
+#: api/essential-grid.php:26
+msgid "Essential Grids"
+msgstr ""
+
+#: api/essential-grid.php:53
+msgid "Import Essential Grid"
+msgstr ""
+
+#: api/essential-grid.php:66
+msgid "Clear Essential Grid tables"
+msgstr ""
+
+#: api/essential-grid.php:69
+#, php-format
+msgid "Failed truncate table \"%s\". Error message: %s"
+msgstr ""
+
+#: api/essential-grid.php:163
+msgid "Essential Grid import complete"
+msgstr ""
+
+#: api/essential-grid.php:166
+#, php-format
+msgid "Essential Grid import error: %s"
+msgstr ""
+
+#: api/essential-grid.php:198
+msgid "Essential Grid"
+msgstr ""
+
+#: api/instagram-feed.php:26
+msgid "Instagram Feed"
+msgstr ""
+
+#: api/js_composer.php:56
+msgid "Visual Composer"
+msgstr ""
+
+#: api/mailchimp-for-wp.php:27
+msgid "MailChimp for WP"
+msgstr ""
+
+#: api/mailchimp-for-wp.php:55
+msgid "Import MailChimp for WP"
+msgstr ""
+
+#: api/revslider.php:53 api/revslider.php:189
+msgid "Revolution Slider"
+msgstr ""
+
+#: api/revslider.php:80
+msgid "Import Revolution Sliders"
+msgstr ""
+
+#: api/revslider.php:93
+msgid "Clear Revolution Slider tables"
+msgstr ""
+
+#: api/revslider.php:96
+msgid "Failed truncate table \"revslider_sliders\"."
+msgstr ""
+
+#: api/revslider.php:98
+msgid "Failed truncate table \"revslider_slides\"."
+msgstr ""
+
+#: api/revslider.php:100
+msgid "Failed truncate table \"revslider_static_slides\"."
+msgstr ""
+
+#: api/revslider.php:114
+msgid "Import Revolution sliders"
+msgstr ""
+
+#: api/revslider.php:154
+#, php-format
+msgid "Revolution Slider \"%s\" import error."
+msgstr ""
+
+#: api/revslider.php:165
+#, php-format
+msgid "Slider \"%s\" imported"
+msgstr ""
+
+#: api/revslider.php:175
+#, php-format
+msgid "Can not locate plugin Revolution Slider: %s"
+msgstr ""
+
+#: api/revslider.php:214
+msgid "Revolution Sliders"
+msgstr ""
+
+#: api/the-events-calendar/the-events-calendar.php:83
+#: api/the-events-calendar/the-events-calendar.php:247
+msgid "Events"
+msgstr ""
+
+#: api/the-events-calendar/the-events-calendar.php:150
+msgid "Tribe Events Calendar"
+msgstr ""
+
+#: api/the-events-calendar/the-events-calendar.php:206
+#: cpt/services/services.php:341 cpt/services/tpl.default-item.php:66
+#: cpt/services/tpl.iconed-item.php:68 cpt/services/tpl.light-item.php:75
+#: cpt/services/tpl.tabs-item.php:31 cpt/services/tpl.tabs_simple.php:93
+#: cpt/team/team.php:337 cpt/team/tpl.default-item.php:42
+#: cpt/testimonials/testimonials.php:211 shortcodes/action/action.php:55
+#: shortcodes/blogger/blogger.php:71 shortcodes/content/content.php:55
+#: shortcodes/countdown/countdown.php:63
+#: shortcodes/googlemap/googlemap.php:74 shortcodes/icons/icons.php:67
+#: shortcodes/promo/promo.php:69 shortcodes/promo/promo.php:71
+#: shortcodes/skills/skills.php:67 shortcodes/socials/socials.php:52
+#: shortcodes/table/table.php:49 shortcodes/title/title.php:47
+msgid "Learn more"
+msgstr ""
+
+#: api/the-events-calendar/the-events-calendar.php:248
+msgid "Display events from specified group"
+msgstr ""
+
+#: api/the-events-calendar/the-events-calendar.php:249
+#: api/trx_donations/trx_donations.php:117
+#: api/trx_donations/trx_donations.php:204 cpt/layouts/layouts.php:441
+#: cpt/layouts/shortcodes/cart/cart.php:86
+#: cpt/layouts/shortcodes/currency/currency.php:72
+#: cpt/layouts/shortcodes/featured/featured.php:76
+#: cpt/layouts/shortcodes/iconed_text/iconed_text.php:84
+#: cpt/layouts/shortcodes/login/login.php:74
+#: cpt/layouts/shortcodes/logo/logo.php:99
+#: cpt/layouts/shortcodes/menu/menu.php:134
+#: cpt/layouts/shortcodes/search/search.php:157
+#: cpt/layouts/shortcodes/title/title.php:75 cpt/services/services.php:529
+#: cpt/team/team.php:380 cpt/testimonials/testimonials.php:254
+#: editor/editor.php:50 shortcodes/action/action.php:103
+#: shortcodes/anchor/anchor.php:107 shortcodes/blogger/blogger.php:117
+#: shortcodes/button/button.php:100 shortcodes/content/content.php:98
+#: shortcodes/countdown/countdown.php:102 shortcodes/form/form.php:137
+#: shortcodes/googlemap/googlemap.php:141 shortcodes/icons/icons.php:109
+#: shortcodes/popup/popup.php:93 shortcodes/price/price.php:88
+#: shortcodes/promo/promo.php:112 shortcodes/skills/skills.php:128
+#: shortcodes/socials/socials.php:87 shortcodes/table/table.php:91
+#: shortcodes/title/title.php:86 widgets/audio/audio.php:197
+#: widgets/contacts/contacts.php:288 widgets/flickr/flickr.php:157
+#: widgets/recent_posts/recent_posts.php:231 widgets/slider/slider.php:854
+#: widgets/slider/slider.php:872 widgets/slider/slider.php:932
+#: widgets/twitter/twitter.php:369 widgets/video/video.php:180
+msgid "ThemeREX"
+msgstr ""
+
+#: api/the-events-calendar/the-events-calendar.php:259
+#: cpt/layouts/layouts.php:62 cpt/layouts/layouts.php:66
+#: cpt/layouts/layouts.php:461 cpt/layouts/layouts.php:462
+#: cpt/layouts/shortcodes/cart/cart.php:96
+#: cpt/layouts/shortcodes/currency/currency.php:82
+#: cpt/layouts/shortcodes/featured/featured.php:87
+#: cpt/layouts/shortcodes/iconed_text/iconed_text.php:94
+#: cpt/layouts/shortcodes/login/login.php:84
+#: cpt/layouts/shortcodes/logo/logo.php:109
+#: cpt/layouts/shortcodes/menu/menu.php:144
+#: cpt/layouts/shortcodes/search/search.php:167
+#: cpt/layouts/shortcodes/title/title.php:85 cpt/services/services.php:388
+#: cpt/team/team.php:390 cpt/testimonials/testimonials.php:264
+#: shortcodes/action/action.php:113 shortcodes/blogger/blogger.php:127
+#: shortcodes/button/button.php:110 shortcodes/content/content.php:109
+#: shortcodes/form/form.php:147 shortcodes/googlemap/googlemap.php:152
+#: shortcodes/icons/icons.php:119 shortcodes/popup/popup.php:104
+#: shortcodes/price/price.php:98 shortcodes/promo/promo.php:123
+#: shortcodes/socials/socials.php:97 shortcodes/table/table.php:101
+#: widgets/twitter/twitter.php:268
+msgid "Layout"
+msgstr ""
+
+#: api/the-events-calendar/the-events-calendar.php:260
+#: cpt/services/services.php:389 cpt/team/team.php:391
+#: shortcodes/blogger/blogger.php:128 shortcodes/content/content.php:110
+#: shortcodes/googlemap/googlemap.php:153 shortcodes/popup/popup.php:105
+#: shortcodes/table/table.php:102
+msgid "Select shortcode's layout"
+msgstr ""
+
+#: api/the-events-calendar/the-events-calendar.php:265
+#: api/trx_donations/trx_donations.php:150 cpt/layouts/layouts.php:455
+#: cpt/layouts/shortcodes/cart/cart.php:101
+#: cpt/layouts/shortcodes/currency/currency.php:87
+#: cpt/layouts/shortcodes/featured/featured.php:92
+#: cpt/layouts/shortcodes/iconed_text/iconed_text.php:99
+#: cpt/layouts/shortcodes/login/login.php:90
+#: cpt/layouts/shortcodes/logo/logo.php:114
+#: cpt/layouts/shortcodes/menu/menu.php:149
+#: cpt/layouts/shortcodes/search/search.php:172
+#: cpt/layouts/shortcodes/title/title.php:90 cpt/services/services.php:394
+#: cpt/team/team.php:396 cpt/testimonials/testimonials.php:270
+#: includes/plugin.wp.php:1530 shortcodes/action/action.php:119
+#: shortcodes/blogger/blogger.php:133 shortcodes/button/button.php:116
+#: shortcodes/button/button.php:158 shortcodes/button/button.php:170
+#: shortcodes/content/content.php:114 shortcodes/content/content.php:124
+#: shortcodes/countdown/countdown.php:116
+#: shortcodes/countdown/countdown.php:141 shortcodes/form/form.php:153
+#: shortcodes/form/form.php:173 shortcodes/googlemap/googlemap.php:158
+#: shortcodes/googlemap/googlemap.php:170 shortcodes/icons/icons.php:125
+#: shortcodes/popup/popup.php:109 shortcodes/price/price.php:104
+#: shortcodes/promo/promo.php:129 shortcodes/promo/promo.php:226
+#: shortcodes/promo/promo.php:243 shortcodes/promo/promo.php:256
+#: shortcodes/shortcodes.php:276 shortcodes/shortcodes.php:287
+#: shortcodes/shortcodes.php:303 shortcodes/socials/socials.php:103
+#: shortcodes/socials/socials.php:113 shortcodes/table/table.php:106
+#: widgets/slider/slider.php:240 widgets/slider/slider.php:592
+#: widgets/twitter/twitter.php:273
+msgid "Default"
+msgstr ""
+
+#: api/the-events-calendar/the-events-calendar.php:266
+#: shortcodes/googlemap/googlemap.php:159
+msgid "Detailed"
+msgstr ""
+
+#: api/the-events-calendar/the-events-calendar.php:272
+msgid "Past events"
+msgstr ""
+
+#: api/the-events-calendar/the-events-calendar.php:273
+msgid "Show the past events if checked, else - show upcoming events"
+msgstr ""
+
+#: api/the-events-calendar/the-events-calendar.php:277
+msgid "Show past events"
+msgstr ""
+
+#: api/the-events-calendar/the-events-calendar.php:282
+#: api/trx_donations/trx_donations.php:214 shortcodes/blogger/blogger.php:153
+msgid "Category"
+msgstr ""
+
+#: api/the-events-calendar/the-events-calendar.php:283
+msgid "Events category"
+msgstr ""
+
+#: api/the-events-calendar/the-events-calendar.php:284
+#: api/trx_donations/trx_donations.php:216 cpt/services/services.php:499
+#: cpt/team/team.php:406 cpt/testimonials/testimonials.php:279
+#: shortcodes/blogger/blogger.php:155 widgets/slider/slider.php:178
+#: widgets/slider/slider.php:617
+msgid "- Select category -"
+msgstr ""
+
+#: api/the-events-calendar/tpl.detailed-item.php:28
+msgid "Whole day"
+msgstr ""
+
+#: api/the-events-calendar/tpl.detailed-item.php:30
+#: shortcodes/price/price.php:163 widgets/recent_posts/recent_posts.php:258
+#: widgets/recent_posts/recent_posts.php:267
+#: widgets/recent_posts/recent_posts.php:276
+#: widgets/recent_posts/recent_posts.php:285
+#: widgets/recent_posts/recent_posts.php:294
+msgid "Details"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:46
+#: api/trx_donations/trx_donations.php:57
+msgid "All Donations"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:71
+msgid "trx_donations"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:115
+msgid "Donations form"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:116
+msgid "Insert form to allow visitors make donations"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:127
+#: api/trx_donations/trx_donations.php:224
+#: api/trx_donations/trx_donations.php:226
+#: api/trx_donations/trx_donations.php:234
+#: api/trx_donations/trx_donations.php:241
+#: api/trx_donations/trx_donations.php:248
+#: api/trx_donations/trx_donations.php:255 shortcodes/action/action.php:176
+#: shortcodes/anchor/anchor.php:123 shortcodes/blogger/blogger.php:206
+#: shortcodes/button/button.php:142 shortcodes/googlemap/googlemap.php:247
+#: shortcodes/icons/icons.php:195 shortcodes/price/price.php:116
+#: shortcodes/shortcodes.php:312 shortcodes/shortcodes.php:414
+#: shortcodes/skills/skills.php:249 shortcodes/title/title.php:84
+#: widgets/slider/slider.php:809 widgets/slider/slider.php:885
+msgid "Title"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:128
+msgid "Title of the form"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:134
+#: api/trx_donations/trx_donations.php:232 shortcodes/action/action.php:183
+#: shortcodes/button/button.php:149 shortcodes/price/price.php:110
+#: shortcodes/shortcodes.php:319 shortcodes/skills/skills.php:242
+#: widgets/slider/slider.php:816 widgets/slider/slider.php:892
+msgid "Subtitle"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:135
+msgid "Subtitle of the form"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:140
+#: api/trx_donations/trx_donations.php:239 shortcodes/action/action.php:201
+#: shortcodes/googlemap/googlemap.php:255 shortcodes/icons/icons.php:202
+#: shortcodes/price/price.php:123 shortcodes/shortcodes.php:325
+#: widgets/contacts/contacts.php:318
+msgid "Description"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:141
+msgid "Description of the form"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:146 shortcodes/shortcodes.php:299
+msgid "Title alignment"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:147 shortcodes/shortcodes.php:300
+msgid "Select alignment of the title, subtitle and description"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:151 cpt/layouts/layouts_vc.php:97
+#: cpt/layouts/layouts_vc.php:114
+#: cpt/layouts/shortcodes/featured/featured.php:109
+#: cpt/services/services.php:446 shortcodes/button/button.php:159
+#: shortcodes/button/button.php:171 shortcodes/button/button.php:199
+#: shortcodes/content/content.php:141 shortcodes/content/content.php:154
+#: shortcodes/countdown/countdown.php:142 shortcodes/form/form.php:174
+#: shortcodes/icons/icons.php:136 shortcodes/promo/promo.php:176
+#: shortcodes/promo/promo.php:244 shortcodes/promo/promo.php:257
+#: shortcodes/shortcodes.php:304 shortcodes/socials/socials.php:114
+#: shortcodes/table/table.php:117 widgets/contacts/contacts.php:196
+#: widgets/contacts/contacts.php:379
+msgid "Left"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:152 cpt/layouts/layouts_vc.php:98
+#: cpt/layouts/shortcodes/featured/featured.php:110
+#: shortcodes/button/button.php:160 shortcodes/button/button.php:172
+#: shortcodes/content/content.php:142 shortcodes/content/content.php:155
+#: shortcodes/countdown/countdown.php:143 shortcodes/form/form.php:175
+#: shortcodes/icons/icons.php:137 shortcodes/promo/promo.php:245
+#: shortcodes/promo/promo.php:258 shortcodes/shortcodes.php:305
+#: shortcodes/socials/socials.php:115 shortcodes/table/table.php:118
+#: widgets/slider/slider.php:192 widgets/slider/slider.php:675
+msgid "Center"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:153 cpt/layouts/layouts_vc.php:99
+#: cpt/layouts/layouts_vc.php:115
+#: cpt/layouts/shortcodes/featured/featured.php:111
+#: cpt/services/services.php:447 shortcodes/button/button.php:161
+#: shortcodes/button/button.php:173 shortcodes/button/button.php:200
+#: shortcodes/content/content.php:143 shortcodes/content/content.php:156
+#: shortcodes/countdown/countdown.php:144 shortcodes/form/form.php:176
+#: shortcodes/icons/icons.php:138 shortcodes/promo/promo.php:177
+#: shortcodes/promo/promo.php:246 shortcodes/promo/promo.php:259
+#: shortcodes/shortcodes.php:306 shortcodes/socials/socials.php:116
+#: shortcodes/table/table.php:119 widgets/contacts/contacts.php:198
+#: widgets/contacts/contacts.php:380
+msgid "Right"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:159
+msgid "PayPal account"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:160
+msgid ""
+"E-mail, used for registration PayPal account. If empty - used value from "
+"ThemeREX Donations options"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:161
+#: api/trx_donations/trx_donations.php:168
+#: api/trx_donations/trx_donations.php:177
+#: api/trx_donations/trx_donations.php:184
+msgid "PayPal"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:166
+msgid "Currency"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:167
+msgid ""
+"Default currency for donation. If empty - used value from ThemeREX "
+"Donations options"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:175
+msgid "Default amount"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:176
+msgid ""
+"Specify default amount to make donation. If empty - used value from "
+"ThemeREX Donations options"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:182
+msgid "Sandbox"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:183
+msgid ""
+"Enable sandbox mode to testing your payments without real money transfer"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:188
+msgid "On"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:189
+msgid "Off"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:202
+msgid "Donations list"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:203
+msgid "Insert list of donations"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:215
+msgid "Donations category"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:225
+msgid "Title of the donations list"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:233
+msgid "Subtitle of the donations list"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:240
+msgid "Description of the donations list"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:246
+#: cpt/layouts/shortcodes/iconed_text/iconed_text.php:123
+msgid "Link URL"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:247
+msgid "Specify URL for the button below list"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:253 shortcodes/price/price.php:143
+msgid "Link text"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:254
+msgid "Specify text for the button below list"
+msgstr ""
+
+#: api/ubermenu.php:26
+msgid "UberMenu"
+msgstr ""
+
+#: api/vc-extensions-bundle.php:26
+msgid "Visual Composer Extensions Bundle"
+msgstr ""
+
+#: api/woocommerce/woocommerce-extended-attributes.php:36
+#: api/woocommerce/woocommerce-extended-attributes.php:67
+#: shortcodes/action/action.php:219 shortcodes/icons/icons.php:155
+#: shortcodes/icons/icons.php:214 shortcodes/skills/skills.php:172
+#: shortcodes/skills/skills.php:262
+msgid "Color"
+msgstr ""
+
+#: api/woocommerce/woocommerce-extended-attributes.php:37
+#: api/woocommerce/woocommerce-extended-attributes.php:66
+#: cpt/layouts/layouts.php:269 cpt/services/services.php:428
+#: includes/plugin.wp.php:1286 shortcodes/action/action.php:231
+#: shortcodes/icons/icons.php:220 shortcodes/price/price.php:154
+#: shortcodes/promo/promo.php:167 shortcodes/promo/promo.php:174
+#: shortcodes/promo/promo.php:185 shortcodes/promo/promo.php:193
+#: shortcodes/promo/promo.php:202 widgets/slider/slider.php:828
+#: widgets/slider/slider.php:904
+msgid "Image"
+msgstr ""
+
+#: api/woocommerce/woocommerce-extended-attributes.php:38
+#: api/woocommerce/woocommerce-extended-attributes.php:68
+#: shortcodes/button/button.php:98
+msgid "Button"
+msgstr ""
+
+#: api/woocommerce/woocommerce-extended-attributes.php:69
+msgid "Select"
+msgstr ""
+
+#: api/woocommerce/woocommerce-extended-attributes.php:70
+msgid "Text"
+msgstr ""
+
+#: api/woocommerce/woocommerce-extended-attributes.php:148
+msgid "Select terms"
+msgstr ""
+
+#: api/woocommerce/woocommerce-extended-attributes.php:170
+msgid "Select all"
+msgstr ""
+
+#: api/woocommerce/woocommerce-extended-attributes.php:171
+msgid "Select none"
+msgstr ""
+
+#: api/woocommerce/woocommerce-extended-attributes.php:172
+msgid "Add new"
+msgstr ""
+
+#: api/woocommerce/woocommerce.php:44 api/woocommerce/woocommerce.php:73
+msgid "Shop"
+msgstr ""
+
+#: api/woocommerce/woocommerce.php:125 api/woocommerce/woocommerce.php:258
+msgid "WooCommerce"
+msgstr ""
+
+#: api/woocommerce/woocommerce.php:185
+msgid "Import WooCommerce"
+msgstr ""
+
+#: api/woocommerce/woocommerce.php:199 api/woocommerce/woocommerce.php:226
+msgid "WooCommerce meta"
+msgstr ""
+
+#: cpt/cpt.php:26 shortcodes/skills/skills.php:126
+msgid "Skills"
+msgstr ""
+
+#: cpt/cpt.php:27
+msgid "Work experience"
+msgstr ""
+
+#: cpt/cpt.php:28
+msgid "Education"
+msgstr ""
+
+#: cpt/cpt.php:29 cpt/cpt.php:77 cpt/services/services.php:44
+#: cpt/services/services.php:47 cpt/services/services.php:49
+#: cpt/services/services.php:109 cpt/services/services.php:527
+msgid "Services"
+msgstr ""
+
+#: cpt/cpt.php:33
+msgid "Certificates"
+msgstr ""
+
+#: cpt/cpt.php:39
+msgid "Courses"
+msgstr ""
+
+#: cpt/cpt.php:47
+msgid "Dishes"
+msgstr ""
+
+#: cpt/cpt.php:55 cpt/layouts/layouts.php:65 cpt/layouts/layouts.php:67
+#: cpt/layouts/layouts.php:439
+msgid "Layouts"
+msgstr ""
+
+#: cpt/cpt.php:63
+msgid "Portfolio"
+msgstr ""
+
+#: cpt/cpt.php:71
+msgid "Resume"
+msgstr ""
+
+#: cpt/cpt.php:85 cpt/team/team.php:56 cpt/team/team.php:59
+#: cpt/team/team.php:61 cpt/team/team.php:121 cpt/team/team.php:378
+msgid "Team"
+msgstr ""
+
+#: cpt/cpt.php:93 cpt/testimonials/testimonials.php:47
+#: cpt/testimonials/testimonials.php:49 cpt/testimonials/testimonials.php:252
+msgid "Testimonials"
+msgstr ""
+
+#: cpt/cpt.php:118
+msgid "CPT"
+msgstr ""
+
+#: cpt/cpt.php:119
+msgid "CPT (Custom Post Types) options"
+msgstr ""
+
+#: cpt/layouts/layouts.php:49 cpt/layouts/layouts.php:451
+#: shortcodes/countdown/countdown.php:112 shortcodes/skills/skills.php:138
+msgid "Type"
+msgstr ""
+
+#: cpt/layouts/layouts.php:50
+msgid "Type of this layout"
+msgstr ""
+
+#: cpt/layouts/layouts.php:53
+msgid "Header"
+msgstr ""
+
+#: cpt/layouts/layouts.php:54
+msgid "Footer"
+msgstr ""
+
+#: cpt/layouts/layouts.php:55 editor/editor.php:106
+#: includes/plugin.options.php:157
+msgid "Custom"
+msgstr ""
+
+#: cpt/layouts/layouts.php:63
+msgid "Layout Description"
+msgstr ""
+
+#: cpt/layouts/layouts.php:68 cpt/services/services.php:50
+#: cpt/team/team.php:62 cpt/testimonials/testimonials.php:50
+msgid "Parent Item:"
+msgstr ""
+
+#: cpt/layouts/layouts.php:69
+msgid "All Layouts"
+msgstr ""
+
+#: cpt/layouts/layouts.php:70
+msgid "View Layout"
+msgstr ""
+
+#: cpt/layouts/layouts.php:71
+msgid "Add New Layout"
+msgstr ""
+
+#: cpt/layouts/layouts.php:72 cpt/services/services.php:54
+#: cpt/team/team.php:66 cpt/testimonials/testimonials.php:54
+msgid "Add New"
+msgstr ""
+
+#: cpt/layouts/layouts.php:73
+msgid "Edit Layout"
+msgstr ""
+
+#: cpt/layouts/layouts.php:74
+msgid "Update Layout"
+msgstr ""
+
+#: cpt/layouts/layouts.php:75
+msgid "Search Layout"
+msgstr ""
+
+#: cpt/layouts/layouts.php:76 cpt/services/services.php:58
+#: cpt/team/team.php:70 cpt/testimonials/testimonials.php:58
+msgid "Not found"
+msgstr ""
+
+#: cpt/layouts/layouts.php:77 cpt/services/services.php:59
+#: cpt/team/team.php:71 cpt/testimonials/testimonials.php:59
+msgid "Not found in Trash"
+msgstr ""
+
+#: cpt/layouts/layouts.php:99
+msgid "Layouts Group"
+msgstr ""
+
+#: cpt/layouts/layouts.php:100 cpt/services/services.php:81
+#: cpt/services/services.php:497 cpt/team/team.php:93 cpt/team/team.php:404
+#: cpt/testimonials/testimonials.php:82 cpt/testimonials/testimonials.php:277
+msgid "Group"
+msgstr ""
+
+#: cpt/layouts/layouts.php:101 cpt/services/services.php:82
+#: cpt/team/team.php:94 cpt/testimonials/testimonials.php:83
+msgid "Search Groups"
+msgstr ""
+
+#: cpt/layouts/layouts.php:102 cpt/services/services.php:83
+#: cpt/team/team.php:95 cpt/testimonials/testimonials.php:84
+msgid "All Groups"
+msgstr ""
+
+#: cpt/layouts/layouts.php:103 cpt/services/services.php:84
+#: cpt/team/team.php:96 cpt/testimonials/testimonials.php:85
+msgid "Parent Group"
+msgstr ""
+
+#: cpt/layouts/layouts.php:104 cpt/services/services.php:85
+#: cpt/team/team.php:97 cpt/testimonials/testimonials.php:86
+msgid "Parent Group:"
+msgstr ""
+
+#: cpt/layouts/layouts.php:105 cpt/services/services.php:86
+#: cpt/team/team.php:98 cpt/testimonials/testimonials.php:87
+msgid "Edit Group"
+msgstr ""
+
+#: cpt/layouts/layouts.php:106 cpt/services/services.php:87
+#: cpt/team/team.php:99 cpt/testimonials/testimonials.php:88
+msgid "Update Group"
+msgstr ""
+
+#: cpt/layouts/layouts.php:107 cpt/services/services.php:88
+#: cpt/team/team.php:100 cpt/testimonials/testimonials.php:89
+msgid "Add New Group"
+msgstr ""
+
+#: cpt/layouts/layouts.php:108 cpt/services/services.php:89
+#: cpt/team/team.php:101 cpt/testimonials/testimonials.php:90
+msgid "New Group Name"
+msgstr ""
+
+#: cpt/layouts/layouts.php:109
+msgid "Layout Group"
+msgstr ""
+
+#: cpt/layouts/layouts.php:143 cpt/layouts/layouts.php:547
+#: cpt/layouts/layouts_vc.php:24 cpt/layouts/layouts_vc.php:42
+#: cpt/layouts/layouts_vc.php:56 cpt/layouts/layouts_vc.php:69
+#: cpt/layouts/layouts_vc.php:81 cpt/layouts/layouts_vc.php:93
+#: cpt/layouts/layouts_vc.php:111
+msgid "Custom Layouts"
+msgstr ""
+
+#: cpt/layouts/layouts.php:144
+msgid "Create theme-specific custom layouts (headers, footers, etc.)"
+msgstr ""
+
+#: cpt/layouts/layouts.php:148
+msgid "Create Layouts"
+msgstr ""
+
+#: cpt/layouts/layouts.php:149
+msgid ""
+"Press button above to create set of layouts, prepared with this theme. "
+"Attention! If a post with the same name exist - it is skipped!"
+msgstr ""
+
+#: cpt/layouts/layouts.php:207
+msgid "Custom Layouts created successfully!"
+msgstr ""
+
+#: cpt/layouts/layouts.php:440
+msgid "Display previously created layout (header, footer, etc.)"
+msgstr ""
+
+#: cpt/layouts/layouts.php:452
+msgid "Select shortcodes's type"
+msgstr ""
+
+#: cpt/layouts/layouts_vc.php:22
+msgid "Row type"
+msgstr ""
+
+#: cpt/layouts/layouts_vc.php:23
+msgid ""
+"Select row type to decorate header widgets. Attention! Use this parameter "
+"to decorate custom layouts only!"
+msgstr ""
+
+#: cpt/layouts/layouts_vc.php:28
+msgid "Narrow"
+msgstr ""
+
+#: cpt/layouts/layouts_vc.php:29 shortcodes/skills/skills.php:167
+msgid "Compact"
+msgstr ""
+
+#: cpt/layouts/layouts_vc.php:30 cpt/layouts/shortcodes/search/search.php:183
+#: shortcodes/button/button.php:128 shortcodes/promo/promo.php:212
+msgid "Normal"
+msgstr ""
+
+#: cpt/layouts/layouts_vc.php:40
+msgid "Delimiter"
+msgstr ""
+
+#: cpt/layouts/layouts_vc.php:41
+msgid "Show delimiter after the row."
+msgstr ""
+
+#: cpt/layouts/layouts_vc.php:45
+msgid "Show delimiter"
+msgstr ""
+
+#: cpt/layouts/layouts_vc.php:54
+msgid "Fix this row when scroll"
+msgstr ""
+
+#: cpt/layouts/layouts_vc.php:55
+msgid "Fix this row to the top of the window when scrolling down"
+msgstr ""
+
+#: cpt/layouts/layouts_vc.php:59
+msgid "Fix this row"
+msgstr ""
+
+#: cpt/layouts/layouts_vc.php:67 cpt/layouts/layouts_vc.php:71
+msgid "Hide on mobile devices"
+msgstr ""
+
+#: cpt/layouts/layouts_vc.php:68 cpt/layouts/layouts_vc.php:171
+#: cpt/layouts/shortcodes/menu/menu.php:197 shortcodes/shortcodes.php:450
+msgid "Hide this item on mobile devices"
+msgstr ""
+
+#: cpt/layouts/layouts_vc.php:79 cpt/layouts/layouts_vc.php:83
+msgid "Hide on the Frontpage"
+msgstr ""
+
+#: cpt/layouts/layouts_vc.php:80
+msgid "Hide this item on the Frontpage"
+msgstr ""
+
+#: cpt/layouts/layouts_vc.php:91
+msgid "Column alignment"
+msgstr ""
+
+#: cpt/layouts/layouts_vc.php:92
+msgid ""
+"Select alignment of the inner widgets in this column. Attention! Use this "
+"parameter to decorate custom layouts only!"
+msgstr ""
+
+#: cpt/layouts/layouts_vc.php:109
+msgid "Icons position"
+msgstr ""
+
+#: cpt/layouts/layouts_vc.php:110
+msgid ""
+"Select icons position of the inner widgets 'Layouts: xxx' in this column. "
+"Attention! Use this parameter to decorate custom layouts only!"
+msgstr ""
+
+#: cpt/layouts/layouts_vc.php:170 cpt/layouts/shortcodes/menu/menu.php:196
+#: shortcodes/shortcodes.php:449
+msgid "Hide on mobile"
+msgstr ""
+
+#: cpt/layouts/layouts_vc.php:173 cpt/layouts/shortcodes/menu/menu.php:204
+#: shortcodes/shortcodes.php:452
+msgid "Hide on the mobile devices"
+msgstr ""
+
+#: cpt/layouts/shortcodes/cart/cart.php:84
+msgid "Layouts: Cart"
+msgstr ""
+
+#: cpt/layouts/shortcodes/cart/cart.php:85
+msgid "Insert cart with items number and totals to the custom layout"
+msgstr ""
+
+#: cpt/layouts/shortcodes/cart/cart.php:97
+#: cpt/layouts/shortcodes/currency/currency.php:83
+#: cpt/layouts/shortcodes/featured/featured.php:88
+#: cpt/layouts/shortcodes/iconed_text/iconed_text.php:95
+#: cpt/layouts/shortcodes/login/login.php:85
+#: cpt/layouts/shortcodes/logo/logo.php:110
+#: cpt/layouts/shortcodes/menu/menu.php:145
+#: cpt/layouts/shortcodes/search/search.php:168
+#: cpt/layouts/shortcodes/title/title.php:86
+#: cpt/testimonials/testimonials.php:265 shortcodes/action/action.php:114
+#: shortcodes/button/button.php:111 shortcodes/icons/icons.php:120
+#: shortcodes/price/price.php:99 shortcodes/promo/promo.php:124
+#: shortcodes/socials/socials.php:98
+msgid "Select shortcodes's layout"
+msgstr ""
+
+#: cpt/layouts/shortcodes/cart/cart.php:107
+msgid "Cart text"
+msgstr ""
+
+#: cpt/layouts/shortcodes/cart/cart.php:108
+#: cpt/layouts/shortcodes/iconed_text/iconed_text.php:109
+msgid "Text in the first line."
+msgstr ""
+
+#: cpt/layouts/shortcodes/cart/tpl.default.php:22
+msgid "Shopping Cart"
+msgstr ""
+
+#: cpt/layouts/shortcodes/cart/tpl.default.php:25
+msgid "item"
+msgstr ""
+
+#: cpt/layouts/shortcodes/currency/currency.php:70
+msgid "Layouts: Currency"
+msgstr ""
+
+#: cpt/layouts/shortcodes/currency/currency.php:71
+msgid "Insert Currency Switcher"
+msgstr ""
+
+#: cpt/layouts/shortcodes/featured/featured.php:74
+msgid "Layouts: Featured image"
+msgstr ""
+
+#: cpt/layouts/shortcodes/featured/featured.php:75
+msgid "Insert post/page featured image"
+msgstr ""
+
+#: cpt/layouts/shortcodes/featured/featured.php:98
+#: shortcodes/action/action.php:248
+msgid "Height of the block"
+msgstr ""
+
+#: cpt/layouts/shortcodes/featured/featured.php:99
+msgid "Specify height of this block. If empty - use default height"
+msgstr ""
+
+#: cpt/layouts/shortcodes/featured/featured.php:105
+msgid "Content alignment"
+msgstr ""
+
+#: cpt/layouts/shortcodes/featured/featured.php:106
+msgid "Select alignment of the inner content in this block"
+msgstr ""
+
+#: cpt/layouts/shortcodes/iconed_text/iconed_text.php:82
+msgid "Layouts: Iconed text"
+msgstr ""
+
+#: cpt/layouts/shortcodes/iconed_text/iconed_text.php:83
+msgid "Insert icon with two text lines to the custom layout"
+msgstr ""
+
+#: cpt/layouts/shortcodes/iconed_text/iconed_text.php:108
+msgid "Text line 1"
+msgstr ""
+
+#: cpt/layouts/shortcodes/iconed_text/iconed_text.php:116
+msgid "Text line 2"
+msgstr ""
+
+#: cpt/layouts/shortcodes/iconed_text/iconed_text.php:117
+msgid "Text in the second line."
+msgstr ""
+
+#: cpt/layouts/shortcodes/iconed_text/iconed_text.php:124
+msgid "Specify link URL. If empty - show plain text without link"
+msgstr ""
+
+#: cpt/layouts/shortcodes/login/login.php:72
+msgid "Layouts: Login link"
+msgstr ""
+
+#: cpt/layouts/shortcodes/login/login.php:73
+msgid "Insert Login/Logout link to the custom layout"
+msgstr ""
+
+#: cpt/layouts/shortcodes/login/login.php:96
+msgid "Login text"
+msgstr ""
+
+#: cpt/layouts/shortcodes/login/login.php:97
+msgid "Text of the Login link."
+msgstr ""
+
+#: cpt/layouts/shortcodes/login/login.php:103
+msgid "Logout text"
+msgstr ""
+
+#: cpt/layouts/shortcodes/login/login.php:104
+msgid "Text of the Logout link."
+msgstr ""
+
+#: cpt/layouts/shortcodes/logo/logo.php:97
+msgid "Layouts: Logo"
+msgstr ""
+
+#: cpt/layouts/shortcodes/logo/logo.php:98
+msgid "Insert site logo to the custom layout"
+msgstr ""
+
+#: cpt/layouts/shortcodes/logo/logo.php:120 widgets/contacts/contacts.php:306
+msgid "Logo"
+msgstr ""
+
+#: cpt/layouts/shortcodes/logo/logo.php:121 widgets/contacts/contacts.php:307
+msgid "Select or upload image or write URL from other site for site's logo."
+msgstr ""
+
+#: cpt/layouts/shortcodes/logo/logo.php:126 widgets/contacts/contacts.php:312
+msgid "Logo Retina"
+msgstr ""
+
+#: cpt/layouts/shortcodes/logo/logo.php:127 widgets/contacts/contacts.php:313
+msgid ""
+"Select or upload image or write URL from other site: site's logo for the "
+"Retina display."
+msgstr ""
+
+#: cpt/layouts/shortcodes/logo/logo.php:132
+msgid "Logo text"
+msgstr ""
+
+#: cpt/layouts/shortcodes/logo/logo.php:133
+msgid "Site name (used if logo is empty). If not specified - use blog name"
+msgstr ""
+
+#: cpt/layouts/shortcodes/logo/logo.php:138
+msgid "Logo slogan"
+msgstr ""
+
+#: cpt/layouts/shortcodes/logo/logo.php:139
+msgid ""
+"Slogan or description below site name (used if logo is empty). If not "
+"specified - use blog description"
+msgstr ""
+
+#: cpt/layouts/shortcodes/menu/menu.php:132
+msgid "Layouts: Menu"
+msgstr ""
+
+#: cpt/layouts/shortcodes/menu/menu.php:133
+msgid "Insert any menu to the custom layout"
+msgstr ""
+
+#: cpt/layouts/shortcodes/menu/menu.php:150
+msgid "Burger"
+msgstr ""
+
+#: cpt/layouts/shortcodes/menu/menu.php:156
+msgid "Location"
+msgstr ""
+
+#: cpt/layouts/shortcodes/menu/menu.php:157
+msgid "Select menu location to insert to the layout"
+msgstr ""
+
+#: cpt/layouts/shortcodes/menu/menu.php:165 includes/plugin.options.php:199
+msgid "Menu"
+msgstr ""
+
+#: cpt/layouts/shortcodes/menu/menu.php:166
+msgid ""
+"Select menu to insert to the layout. If empty - use menu assigned to the "
+"location above"
+msgstr ""
+
+#: cpt/layouts/shortcodes/menu/menu.php:178
+msgid "Mobile button"
+msgstr ""
+
+#: cpt/layouts/shortcodes/menu/menu.php:179
+msgid ""
+"Add menu button instead menu on mobile devices. When it clicked - open menu"
+msgstr ""
+
+#: cpt/layouts/shortcodes/menu/menu.php:180
+#: cpt/layouts/shortcodes/menu/menu.php:189
+#: cpt/layouts/shortcodes/menu/menu.php:198
+msgid "Mobile menu"
+msgstr ""
+
+#: cpt/layouts/shortcodes/menu/menu.php:182
+msgid "Add button"
+msgstr ""
+
+#: cpt/layouts/shortcodes/menu/menu.php:187
+msgid "Add to the mobile menu"
+msgstr ""
+
+#: cpt/layouts/shortcodes/menu/menu.php:188
+msgid ""
+"Use this menu items as mobile menu (if mobile menu not selected in the "
+"theme)"
+msgstr ""
+
+#: cpt/layouts/shortcodes/menu/menu.php:191
+msgid "Use as mobile menu"
+msgstr ""
+
+#: cpt/layouts/shortcodes/menu/menu.php:209 cpt/services/services.php:398
+msgid "Hover"
+msgstr ""
+
+#: cpt/layouts/shortcodes/menu/menu.php:210
+msgid "Select the menu items hover"
+msgstr ""
+
+#: cpt/layouts/shortcodes/menu/menu.php:221
+msgid "Submenu animation in"
+msgstr ""
+
+#: cpt/layouts/shortcodes/menu/menu.php:222
+msgid "Select animation to show submenu"
+msgstr ""
+
+#: cpt/layouts/shortcodes/menu/menu.php:233
+msgid "Submenu animation out"
+msgstr ""
+
+#: cpt/layouts/shortcodes/menu/menu.php:234
+msgid "Select animation to hide submenu"
+msgstr ""
+
+#: cpt/layouts/shortcodes/search/search.php:101
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with "
+"some different keywords."
+msgstr ""
+
+#: cpt/layouts/shortcodes/search/search.php:103
+msgid "More results ..."
+msgstr ""
+
+#: cpt/layouts/shortcodes/search/search.php:106
+msgid "The query string is empty!"
+msgstr ""
+
+#: cpt/layouts/shortcodes/search/search.php:155
+msgid "Layouts: Search form"
+msgstr ""
+
+#: cpt/layouts/shortcodes/search/search.php:156
+msgid "Insert search form to the custom layout"
+msgstr ""
+
+#: cpt/layouts/shortcodes/search/search.php:178 cpt/services/services.php:114
+#: cpt/team/team.php:126 shortcodes/form/form.php:159
+#: shortcodes/googlemap/googlemap.php:165 widgets/slider/slider.php:948
+msgid "Style"
+msgstr ""
+
+#: cpt/layouts/shortcodes/search/search.php:179
+msgid "Select form's style"
+msgstr ""
+
+#: cpt/layouts/shortcodes/search/search.php:184
+msgid "Expand"
+msgstr ""
+
+#: cpt/layouts/shortcodes/search/search.php:185
+msgid "Fullscreen"
+msgstr ""
+
+#: cpt/layouts/shortcodes/search/search.php:191
+#: cpt/layouts/shortcodes/search/search.php:195
+msgid "AJAX search"
+msgstr ""
+
+#: cpt/layouts/shortcodes/search/search.php:192
+msgid "Use AJAX incremental search"
+msgstr ""
+
+#: cpt/layouts/shortcodes/title/title.php:73
+msgid "Layouts: Title and Breadcrumbs"
+msgstr ""
+
+#: cpt/layouts/shortcodes/title/title.php:74
+msgid "Insert post meta and/or title and/or breadcrumbs"
+msgstr ""
+
+#: cpt/layouts/shortcodes/title/title.php:96
+#: cpt/layouts/shortcodes/title/title.php:99
+msgid "Show post meta"
+msgstr ""
+
+#: cpt/layouts/shortcodes/title/title.php:97
+msgid "Show post meta: date, author, categories list, etc."
+msgstr ""
+
+#: cpt/layouts/shortcodes/title/title.php:104
+#: cpt/layouts/shortcodes/title/title.php:107
+msgid "Show post title"
+msgstr ""
+
+#: cpt/layouts/shortcodes/title/title.php:105
+msgid "Show post/page title"
+msgstr ""
+
+#: cpt/layouts/shortcodes/title/title.php:112
+#: cpt/layouts/shortcodes/title/title.php:115
+msgid "Show breadcrumbs"
+msgstr ""
+
+#: cpt/layouts/shortcodes/title/title.php:113
+msgid "Show breadcrumbs under the title"
+msgstr ""
+
+#: cpt/services/services.php:34
+msgid "Item's icon"
+msgstr ""
+
+#: cpt/services/services.php:35
+msgid "Select icon for the current service item"
+msgstr ""
+
+#: cpt/services/services.php:37
+msgid "No icon"
+msgstr ""
+
+#: cpt/services/services.php:45
+msgid "Service Description"
+msgstr ""
+
+#: cpt/services/services.php:48
+msgid "Service"
+msgstr ""
+
+#: cpt/services/services.php:51 cpt/services/services.php:191
+#: cpt/services/services.php:204
+msgid "All Services"
+msgstr ""
+
+#: cpt/services/services.php:52
+msgid "View Service"
+msgstr ""
+
+#: cpt/services/services.php:53
+msgid "Add New Service"
+msgstr ""
+
+#: cpt/services/services.php:55
+msgid "Edit Service"
+msgstr ""
+
+#: cpt/services/services.php:56
+msgid "Update Service"
+msgstr ""
+
+#: cpt/services/services.php:57
+msgid "Search Service"
+msgstr ""
+
+#: cpt/services/services.php:80
+msgid "Services Group"
+msgstr ""
+
+#: cpt/services/services.php:90
+msgid "Services Groups"
+msgstr ""
+
+#: cpt/services/services.php:110
+msgid "Settings of the services archive"
+msgstr ""
+
+#: cpt/services/services.php:115
+msgid "Style of the services archive"
+msgstr ""
+
+#: cpt/services/services.php:118 cpt/team/team.php:130
+msgid "Default /2 columns/"
+msgstr ""
+
+#: cpt/services/services.php:119 cpt/team/team.php:131
+msgid "Default /3 columns/"
+msgstr ""
+
+#: cpt/services/services.php:395
+msgid "Light"
+msgstr ""
+
+#: cpt/services/services.php:396 includes/plugin.wp.php:1535
+msgid "Iconed"
+msgstr ""
+
+#: cpt/services/services.php:397 widgets/twitter/twitter.php:272
+msgid "List"
+msgstr ""
+
+#: cpt/services/services.php:399
+msgid "Chess"
+msgstr ""
+
+#: cpt/services/services.php:400
+msgid "Tabs"
+msgstr ""
+
+#: cpt/services/services.php:401
+msgid "Tabs (simple)"
+msgstr ""
+
+#: cpt/services/services.php:407
+msgid "Tabs change effect"
+msgstr ""
+
+#: cpt/services/services.php:408
+msgid "Select the tabs change effect"
+msgstr ""
+
+#: cpt/services/services.php:415 includes/plugin.wp.php:1545
+#: widgets/slider/slider.php:249 widgets/slider/slider.php:534
+msgid "Fade"
+msgstr ""
+
+#: cpt/services/services.php:416 widgets/slider/slider.php:248
+#: widgets/slider/slider.php:533
+msgid "Slide"
+msgstr ""
+
+#: cpt/services/services.php:417
+msgid "Page flip"
+msgstr ""
+
+#: cpt/services/services.php:423 cpt/team/team.php:398
+msgid "Featured"
+msgstr ""
+
+#: cpt/services/services.php:424
+msgid "What to use as featured element?"
+msgstr ""
+
+#: cpt/services/services.php:429 includes/plugin.wp.php:1287
+#: shortcodes/button/button.php:190 shortcodes/button/button.php:197
+#: shortcodes/shortcodes.php:488
+msgid "Icon"
+msgstr ""
+
+#: cpt/services/services.php:430 shortcodes/content/content.php:175
+#: shortcodes/content/content.php:177 shortcodes/content/content.php:184
+#: shortcodes/content/content.php:203
+msgid "Number"
+msgstr ""
+
+#: cpt/services/services.php:436
+msgid "Featured position"
+msgstr ""
+
+#: cpt/services/services.php:437
+msgid "Select the position of the featured element"
+msgstr ""
+
+#: cpt/services/services.php:445 shortcodes/button/button.php:201
+#: widgets/contacts/contacts.php:194 widgets/contacts/contacts.php:378
+msgid "Top"
+msgstr ""
+
+#: cpt/services/services.php:453 cpt/services/services.php:460
+msgid "Hide bg image"
+msgstr ""
+
+#: cpt/services/services.php:454
+msgid "Check if you want hide background image on the front item"
+msgstr ""
+
+#: cpt/services/services.php:465 shortcodes/blogger/blogger.php:141
+msgid "Excerpt"
+msgstr ""
+
+#: cpt/services/services.php:466 shortcodes/blogger/blogger.php:142
+msgid "Check if you want hide excerpt"
+msgstr ""
+
+#: cpt/services/services.php:468 shortcodes/blogger/blogger.php:148
+msgid "Hide excerpt"
+msgstr ""
+
+#: cpt/services/services.php:473 shortcodes/icons/icons.php:167
+msgid "Animation"
+msgstr ""
+
+#: cpt/services/services.php:474 shortcodes/icons/icons.php:168
+msgid ""
+"Check if you want animate icons. Attention! Animation enabled only if in "
+"your theme exists .SVG icon with same name as selected icon"
+msgstr ""
+
+#: cpt/services/services.php:480 shortcodes/icons/icons.php:170
+msgid "Animate icons"
+msgstr ""
+
+#: cpt/services/services.php:485
+msgid "Remove margin"
+msgstr ""
+
+#: cpt/services/services.php:486
+msgid "Check if you want remove spaces between columns"
+msgstr ""
+
+#: cpt/services/services.php:492
+msgid "Remove margin between columns"
+msgstr ""
+
+#: cpt/services/services.php:498
+msgid "Services group"
+msgstr ""
+
+#: cpt/services/services.php:528
+msgid "Display services from specified group"
+msgstr ""
+
+#: cpt/services/tpl.archive.php:42 cpt/team/tpl.archive.php:40
+#: includes/plugin.wp.php:752
+msgid "<"
+msgstr ""
+
+#: cpt/services/tpl.archive.php:43 cpt/team/tpl.archive.php:41
+#: includes/plugin.wp.php:753
+msgid ">"
+msgstr ""
+
+#: cpt/services/tpl.archive.php:44 cpt/team/tpl.archive.php:42
+#: includes/plugin.wp.php:754
+msgid "Page"
+msgstr ""
+
+#: cpt/team/team.php:35
+msgid "Position"
+msgstr ""
+
+#: cpt/team/team.php:36
+msgid "Team member's position or any other text"
+msgstr ""
+
+#: cpt/team/team.php:41 cpt/team/tpl.single.php:64
+msgid "Brief info"
+msgstr ""
+
+#: cpt/team/team.php:42
+msgid ""
+"Brief info about this team member to display on the member's single page"
+msgstr ""
+
+#: cpt/team/team.php:47 includes/plugin.options.php:276
+#: shortcodes/socials/socials.php:85
+msgid "Socials"
+msgstr ""
+
+#: cpt/team/team.php:48
+msgid ""
+"Links to profiles in the social networks in format: "
+"social_slug=url_to_profile. Each social network in the new line"
+msgstr ""
+
+#: cpt/team/team.php:57
+msgid "Team Description"
+msgstr ""
+
+#: cpt/team/team.php:60
+msgid "Team member"
+msgstr ""
+
+#: cpt/team/team.php:63
+msgid "All Team"
+msgstr ""
+
+#: cpt/team/team.php:64
+msgid "View Team member"
+msgstr ""
+
+#: cpt/team/team.php:65
+msgid "Add New Team member"
+msgstr ""
+
+#: cpt/team/team.php:67
+msgid "Edit Team member"
+msgstr ""
+
+#: cpt/team/team.php:68
+msgid "Update Team member"
+msgstr ""
+
+#: cpt/team/team.php:69
+msgid "Search Team member"
+msgstr ""
+
+#: cpt/team/team.php:92
+msgid "Team Group"
+msgstr ""
+
+#: cpt/team/team.php:102
+msgid "Team Groups"
+msgstr ""
+
+#: cpt/team/team.php:122
+msgid "Settings of the team members archive"
+msgstr ""
+
+#: cpt/team/team.php:127
+msgid "Style of the team archive"
+msgstr ""
+
+#: cpt/team/team.php:192 cpt/team/team.php:205
+msgid "All Team Members"
+msgstr ""
+
+#: cpt/team/team.php:379
+msgid "Display team members from specified group"
+msgstr ""
+
+#: cpt/team/team.php:397
+msgid "Short"
+msgstr ""
+
+#: cpt/team/team.php:405
+msgid "Team group"
+msgstr ""
+
+#: cpt/testimonials/testimonials.php:35
+msgid "Item's subtitle"
+msgstr ""
+
+#: cpt/testimonials/testimonials.php:36
+msgid "Testimonial author's position or any other text"
+msgstr ""
+
+#: cpt/testimonials/testimonials.php:44 cpt/testimonials/testimonials.php:48
+msgid "Testimonial"
+msgstr ""
+
+#: cpt/testimonials/testimonials.php:45
+msgid "Testimonial Description"
+msgstr ""
+
+#: cpt/testimonials/testimonials.php:51
+msgid "All Testimonials"
+msgstr ""
+
+#: cpt/testimonials/testimonials.php:52
+msgid "View Testimonial"
+msgstr ""
+
+#: cpt/testimonials/testimonials.php:53
+msgid "Add New Testimonial"
+msgstr ""
+
+#: cpt/testimonials/testimonials.php:55
+msgid "Edit Testimonial"
+msgstr ""
+
+#: cpt/testimonials/testimonials.php:56
+msgid "Update Testimonial"
+msgstr ""
+
+#: cpt/testimonials/testimonials.php:57
+msgid "Search Testimonial"
+msgstr ""
+
+#: cpt/testimonials/testimonials.php:81
+msgid "Testimonials Group"
+msgstr ""
+
+#: cpt/testimonials/testimonials.php:91
+msgid "Testimonial Group"
+msgstr ""
+
+#: cpt/testimonials/testimonials.php:253
+msgid "Display testimonials from specified group"
+msgstr ""
+
+#: cpt/testimonials/testimonials.php:271 shortcodes/button/button.php:117
+#: shortcodes/googlemap/googlemap.php:173
+msgid "Simple"
+msgstr ""
+
+#: cpt/testimonials/testimonials.php:278
+msgid "Testimonials group"
+msgstr ""
+
+#: editor/editor.php:51
+msgid "ThemeREX Addons Buttons"
+msgstr ""
+
+#: editor/editor.php:52
+msgid "Extra styles for the selected text"
+msgstr ""
+
+#: editor/editor.php:53
+msgid "Add tooltip to the selected text"
+msgstr ""
+
+#: editor/editor.php:54
+msgid "Enter tooltip text text"
+msgstr ""
+
+#: editor/editor.php:55
+msgid "Insert icon to the caret position"
+msgstr ""
+
+#: editor/editor.php:57
+msgid "First select the letter!"
+msgstr ""
+
+#: editor/editor.php:58
+msgid "Text is empty!"
+msgstr ""
+
+#: editor/editor.php:73
+msgid "Headers"
+msgstr ""
+
+#: editor/editor.php:76
+msgid "No margin"
+msgstr ""
+
+#: editor/editor.php:83
+msgid "Blockquotes"
+msgstr ""
+
+#: editor/editor.php:86
+msgid "Style 1"
+msgstr ""
+
+#: editor/editor.php:91
+msgid "Style 2"
+msgstr ""
+
+#: editor/editor.php:98
+msgid "List styles"
+msgstr ""
+
+#: editor/editor.php:101
+msgid "Dot"
+msgstr ""
+
+#: editor/editor.php:111
+msgid "Parameters"
+msgstr ""
+
+#: editor/editor.php:117
+msgid "Success"
+msgstr ""
+
+#: editor/editor.php:122
+msgid "Error"
+msgstr ""
+
+#: editor/editor.php:127 shortcodes/action/action.php:195
+msgid "Info"
+msgstr ""
+
+#: editor/editor.php:132
+msgid "Plus"
+msgstr ""
+
+#: editor/editor.php:137
+msgid "Minus"
+msgstr ""
+
+#: editor/editor.php:142
+msgid "Help"
+msgstr ""
+
+#: editor/editor.php:147
+msgid "Attention"
+msgstr ""
+
+#: editor/editor.php:154
+msgid "Success (circled)"
+msgstr ""
+
+#: editor/editor.php:159
+msgid "Error (circled)"
+msgstr ""
+
+#: editor/editor.php:164
+msgid "Info (circled)"
+msgstr ""
+
+#: editor/editor.php:169
+msgid "Plus (circled)"
+msgstr ""
+
+#: editor/editor.php:174
+msgid "Minus (circled)"
+msgstr ""
+
+#: editor/editor.php:179
+msgid "Help (circled)"
+msgstr ""
+
+#: editor/editor.php:184
+msgid "Attention (circled)"
+msgstr ""
+
+#: editor/editor.php:192
+msgid "Inline"
+msgstr ""
+
+#: editor/editor.php:195
+msgid "Accent text"
+msgstr ""
+
+#: editor/editor.php:200
+msgid "Accent background"
+msgstr ""
+
+#: editor/editor.php:205
+msgid "Dark text"
+msgstr ""
+
+#: editor/editor.php:210
+msgid "Inverse text"
+msgstr ""
+
+#: editor/editor.php:215
+msgid "Big font"
+msgstr ""
+
+#: editor/editor.php:219
+msgid "Small font"
+msgstr ""
+
+#: editor/editor.php:223
+msgid "Tiny text"
+msgstr ""
+
+#: editor/editor.php:228
+msgid "Dropcap 1"
+msgstr ""
+
+#: editor/editor.php:233
+msgid "Dropcap 2"
+msgstr ""
+
+#: importer/class.importer.php:130
+msgid "Install Demo Data"
+msgstr ""
+
+#: importer/class.importer.php:151
+msgid "Incorrect WP-nonce data! Operation canceled!"
+msgstr ""
+
+#: importer/class.importer.php:161
+msgid "Importer"
+msgstr ""
+
+#: importer/class.importer.php:166
+msgid "Select the demo to be imported:"
+msgstr ""
+
+#: importer/class.importer.php:176
+msgid "Select the demo-data set to be imported:"
+msgstr ""
+
+#: importer/class.importer.php:178
+msgid "Only pages, forms and sliders"
+msgstr ""
+
+#: importer/class.importer.php:181
+msgid ""
+"<b>Only pages, forms layouts and sliders will be imported in this case.</b>"
+msgstr ""
+
+#: importer/class.importer.php:182
+msgid "The imported data will be added to the existing content."
+msgstr ""
+
+#: importer/class.importer.php:183
+msgid "All the images are replaced with placeholders."
+msgstr ""
+
+#: importer/class.importer.php:184
+msgid ""
+"The new pages provide sample markup and shall not be included in the menu! "
+"You have to do it yourself."
+msgstr ""
+
+#: importer/class.importer.php:185 importer/class.importer.php:193
+msgid ""
+"Import some components (Revolution sliders, Essential Grids, etc.) take a "
+"long time - <b>please wait until the end of the procedure, do not navigate "
+"away from this page</b>."
+msgstr ""
+
+#: importer/class.importer.php:188
+msgid "Whole demo-site content"
+msgstr ""
+
+#: importer/class.importer.php:191
+msgid ""
+"<b>It is recommended for new installations of WordPress</b> (without "
+"posts, pages and any other data)!"
+msgstr ""
+
+#: importer/class.importer.php:192
+msgid ""
+"As a result, you will get a new set of posts, pages, menu items - <b>a "
+"complete copy of our demo site</b>."
+msgstr ""
+
+#: importer/class.importer.php:199
+msgid "Advanced settings"
+msgstr ""
+
+#: importer/class.importer.php:201
+msgid "Select the elements to be imported:"
+msgstr ""
+
+#: importer/class.importer.php:206
+msgid "Import posts, pages, taxonomies, etc."
+msgstr ""
+
+#: importer/class.importer.php:230 importer/class.importer.php:669
+msgid "Import media"
+msgstr ""
+
+#: importer/class.importer.php:237 importer/class.importer.php:763
+msgid "Import Theme mods"
+msgstr ""
+
+#: importer/class.importer.php:243 importer/class.importer.php:786
+msgid "Import Theme Options"
+msgstr ""
+
+#: importer/class.importer.php:249 importer/class.importer.php:808
+msgid "Import Widgets"
+msgstr ""
+
+#: importer/class.importer.php:260
+msgid "Start import"
+msgstr ""
+
+#: importer/class.importer.php:265
+msgid "Import demo data"
+msgstr ""
+
+#: importer/class.importer.php:269 importer/class.importer.php:307
+#: importer/class.importer.php:663
+msgid "Posts"
+msgstr ""
+
+#: importer/class.importer.php:270
+msgid "Media"
+msgstr ""
+
+#: importer/class.importer.php:271 importer/class.importer.php:309
+msgid "Theme Mods"
+msgstr ""
+
+#: importer/class.importer.php:272 importer/class.importer.php:310
+msgid "Theme Options"
+msgstr ""
+
+#: importer/class.importer.php:273 importer/class.importer.php:311
+msgid "Widgets"
+msgstr ""
+
+#: importer/class.importer.php:281
+msgid "Congratulations! Data import complete!"
+msgstr ""
+
+#: importer/class.importer.php:281
+msgid "View site"
+msgstr ""
+
+#: importer/class.importer.php:289
+msgid "Exporter"
+msgstr ""
+
+#: importer/class.importer.php:306 importer/class.importer.php:652
+msgid "Users"
+msgstr ""
+
+#: importer/class.importer.php:308
+msgid "Uploads"
+msgstr ""
+
+#: importer/class.importer.php:323
+msgid "Select the demo type to be exported"
+msgstr ""
+
+#: importer/class.importer.php:336
+msgid "Export Demo Data"
+msgstr ""
+
+#: importer/class.importer.php:402
+msgid "Download"
+msgstr ""
+
+#: importer/class.importer.php:411
+msgid ""
+"Attention! For correct installation of the selected demo data, you must "
+"install and activate the following plugins: "
+msgstr ""
+
+#: importer/class.importer.php:477
+#, php-format
+msgid "User %d"
+msgstr ""
+
+#: importer/class.importer.php:486 importer/class.importer.php:488
+#, php-format
+msgid "FName%d"
+msgstr ""
+
+#: importer/class.importer.php:487 importer/class.importer.php:489
+#, php-format
+msgid "LName%d"
+msgstr ""
+
+#: importer/class.importer.php:528
+#, php-format
+msgid "Export %d rows from table '%s'. Used query: %s"
+msgstr ""
+
+#: importer/class.importer.php:541
+msgid "AJAX handler for importer"
+msgstr ""
+
+#: importer/class.importer.php:550
+#, php-format
+msgid "Dispatch action: %s"
+msgstr ""
+
+#: importer/class.importer.php:571
+#, php-format
+msgid "Start import from \"%s\""
+msgstr ""
+
+#: importer/class.importer.php:613
+#, php-format
+msgid "AJAX handler finished - send results to client: %s"
+msgstr ""
+
+#: importer/class.importer.php:626
+msgid "Clear tables"
+msgstr ""
+
+#: importer/class.importer.php:628
+msgid "Failed truncate table POSTS."
+msgstr ""
+
+#: importer/class.importer.php:630
+msgid "Failed truncate table POSTMETA."
+msgstr ""
+
+#: importer/class.importer.php:632
+msgid "Failed truncate table COMMENTS."
+msgstr ""
+
+#: importer/class.importer.php:634
+msgid "Failed truncate table COMMENTMETA."
+msgstr ""
+
+#: importer/class.importer.php:636
+msgid "Failed truncate table TERMS."
+msgstr ""
+
+#: importer/class.importer.php:638
+msgid "Failed truncate table TERM_RELATIONSHIPS."
+msgstr ""
+
+#: importer/class.importer.php:640
+msgid "Failed truncate table TERM_TAXONOMY."
+msgstr ""
+
+#: importer/class.importer.php:650
+msgid "Import users"
+msgstr ""
+
+#: importer/class.importer.php:658
+msgid "Import posts, terms and comments"
+msgstr ""
+
+#: importer/class.importer.php:729
+#, php-format
+msgid ""
+"File %s imported. Current import progress: %s. Time limit: %s sec. Elapsed "
+"time: %s sec."
+msgstr ""
+
+#: importer/class.importer.php:734
+#, php-format
+msgid "Extract zip-file \"%s\""
+msgstr ""
+
+#: importer/class.importer.php:737
+#, php-format
+msgid "Error when unzip file \"%s\""
+msgstr ""
+
+#: importer/class.importer.php:746
+#, php-format
+msgid "File \"%s\" not found"
+msgstr ""
+
+#: importer/class.importer.php:778 importer/class.importer.php:800
+#: importer/class.importer.php:820 importer/class.importer.php:976
+#, php-format
+msgid "Error unserialize data from the file %s"
+msgstr ""
+
+#: importer/class.importer.php:828
+#, php-format
+msgid "Import dump file: \"%s\""
+msgstr ""
+
+#: importer/class.importer.php:841
+#, php-format
+msgid "Process table \"%s\""
+msgstr ""
+
+#: importer/class.importer.php:844
+#, php-format
+msgid "Table \"%s\" does not exists! Skip dump import for this table."
+msgstr ""
+
+#: importer/class.importer.php:927
+#, php-format
+msgid "Record (ID=%s) is imported. Progress: %s. Time: %s sec. from %s sec."
+msgstr ""
+
+#: importer/class.importer.php:971
+#, php-format
+msgid "Imported %s. Elapsed time %s sec. of %s sec."
+msgstr ""
+
+#: importer/class.importer.php:997
+msgid "No-Image placeholder"
+msgstr ""
+
+#: importer/class.importer.php:1056
+msgid "Incorrect parameters"
+msgstr ""
+
+#: importer/class.importer.php:1195
+#, php-format
+msgid "Download file %s successful"
+msgstr ""
+
+#: importer/class.importer.php:1201
+#, php-format
+msgid "Attempt %d. Download file '%s' failed."
+msgstr ""
+
+#: importer/class.importer.php:1206
+#, php-format
+msgid "Error download file '%s'."
+msgstr ""
+
+#: importer/class.importer.php:1207 importer/class.importer.php:1236
+msgid "Please, try again!"
+msgstr ""
+
+#: importer/class.importer.php:1230
+#, php-format
+msgid "Attempt %d. Load data from the file '%s' failed. "
+msgstr ""
+
+#: importer/class.importer.php:1235
+#, php-format
+msgid "Error load data from the file '%s'."
+msgstr ""
+
+#: importer/class.importer.php:1244
+#, php-format
+msgid "Load data from the file %s successful"
+msgstr ""
+
+#: importer/importer.php:20
+msgid "Errors that occurred during the import process:"
+msgstr ""
+
+#: importer/importer.php:21
+msgid ""
+"ATTENTION!\n"
+"\n"
+"In this case ALL THE OLD DATA WILL BE ERASED\n"
+"and YOU WILL GET A NEW SET OF POSTS, pages and menu items."
+msgstr ""
+
+#: importer/importer.php:23
+msgid ""
+"It is strongly recommended only for new installations of WordPress\n"
+"(without posts, pages and any other data)!"
+msgstr ""
+
+#: importer/importer.php:25
+msgid ""
+"Press 'OK' to continue or 'Cancel' to return to a partial installation"
+msgstr ""
+
+#: includes/plugin.debug.php:156
+msgid "THEME INIT START"
+msgstr ""
+
+#: includes/plugin.debug.php:156
+msgid "THEME INIT END"
+msgstr ""
+
+#: includes/plugin.debug.php:165
+msgid "PLUGINS INIT START"
+msgstr ""
+
+#: includes/plugin.debug.php:165
+msgid "PLUGINS INIT END"
+msgstr ""
+
+#: includes/plugin.debug.php:172
+msgid "WP PAGE OUTPUT START"
+msgstr ""
+
+#: includes/plugin.debug.php:208
+msgid "WP PAGE OUTPUT END"
+msgstr ""
+
+#: includes/plugin.debug.php:211
+msgid "Execution time and Memory usage"
+msgstr ""
+
+#: includes/plugin.debug.php:214
+msgid "Point"
+msgstr ""
+
+#: includes/plugin.debug.php:215
+msgid "Execution time (seconds)"
+msgstr ""
+
+#: includes/plugin.debug.php:216
+msgid "Usage memory (bytes)"
+msgstr ""
+
+#: includes/plugin.debug.php:217
+msgid "Database queries"
+msgstr ""
+
+#: includes/plugin.debug.php:220 includes/plugin.debug.php:222
+#: includes/plugin.debug.php:224
+msgid "By theme"
+msgstr ""
+
+#: includes/plugin.debug.php:221 includes/plugin.debug.php:223
+#: includes/plugin.debug.php:225
+msgid "Total (WP+Plugins+Theme)"
+msgstr ""
+
+#: includes/plugin.files.php:164
+#, php-format
+msgid ""
+"WP Filesystem is not initialized! Put contents to the file \"%s\" failed"
+msgstr ""
+
+#: includes/plugin.files.php:199
+#, php-format
+msgid ""
+"WP Filesystem is not initialized! Get contents from the file \"%s\" failed"
+msgstr ""
+
+#: includes/plugin.files.php:230
+#, php-format
+msgid ""
+"WP Filesystem is not initialized! Get rows from the file \"%s\" failed"
+msgstr ""
+
+#: includes/plugin.media.php:191 widgets/slider/slider.php:396
+#: widgets/slider/slider.php:721
+msgid "Prev|PHOTO"
+msgstr ""
+
+#: includes/plugin.media.php:192 widgets/slider/slider.php:397
+#: widgets/slider/slider.php:738
+msgid "Next|PHOTO"
+msgstr ""
+
+#: includes/plugin.options.customizer.php:31
+#: includes/plugin.options.customizer.php:32
+msgid "ThemeREX Addons"
+msgstr ""
+
+#: includes/plugin.options.customizer.php:78
+msgid "ThemeREX Addons Settings"
+msgstr ""
+
+#: includes/plugin.options.customizer.php:92
+msgid "Save Options"
+msgstr ""
+
+#: includes/plugin.options.customizer.php:261
+msgid "Choose Image"
+msgstr ""
+
+#: includes/plugin.options.customizer.php:262
+msgid "Choose Media"
+msgstr ""
+
+#: includes/plugin.options.customizer.php:266
+#: includes/plugin.options.customizer.php:277
+msgid "Choose Images"
+msgstr ""
+
+#: includes/plugin.options.customizer.php:270
+msgid "Add to Gallery"
+msgstr ""
+
+#: includes/plugin.options.customizer.php:333
+msgid "Bad security code! Options are not saved!"
+msgstr ""
+
+#: includes/plugin.options.customizer.php:339
+msgid "Manage options is denied for the current user! Options are not saved!"
+msgstr ""
+
+#: includes/plugin.options.customizer.php:358
+msgid "Options are saved"
+msgstr ""
+
+#: includes/plugin.options.meta-box.php:55
+msgid "Item Options"
+msgstr ""
+
+#: includes/plugin.options.php:61
+#, php-format
+msgid "Undefined option \"%s\" called from:"
+msgstr ""
+
+#: includes/plugin.options.php:115
+msgid "General"
+msgstr ""
+
+#: includes/plugin.options.php:116
+msgid "General options"
+msgstr ""
+
+#: includes/plugin.options.php:120
+msgid "General Settings"
+msgstr ""
+
+#: includes/plugin.options.php:121
+msgid "General settings of the ThemeREX Addons"
+msgstr ""
+
+#: includes/plugin.options.php:125
+msgid "Debug mode"
+msgstr ""
+
+#: includes/plugin.options.php:126
+msgid "Enable debug functions and theme profiler output."
+msgstr ""
+
+#: includes/plugin.options.php:128
+msgid ""
+"Attention! When the \"Debug Mode\" is on, the original .css and .js files "
+"are being used. When it is turned off, composed files that contain many "
+"scripts and styles are used! Composed files must not be edited! If you "
+"want to change scripts or styles of plugins and/or of the theme, turn the "
+"\"Debug mode\" on, apply the changes to the original files, check if "
+"everything works, and turn the \"Debug mode\" off again. Composed files "
+"are being rewritten every time you save plugin's and the theme's options."
+msgstr ""
+
+#: includes/plugin.options.php:133
+msgid "Image dimensions"
+msgstr ""
+
+#: includes/plugin.options.php:134
+msgid ""
+"Which dimensions will be used for the uploaded images: \"Original\" or "
+"\"Retina ready\" (twice enlarged)"
+msgstr ""
+
+#: includes/plugin.options.php:138
+msgid "Original"
+msgstr ""
+
+#: includes/plugin.options.php:139
+msgid "Retina"
+msgstr ""
+
+#: includes/plugin.options.php:144
+msgid "Quality for cropped images"
+msgstr ""
+
+#: includes/plugin.options.php:145
+msgid ""
+"Quality (1-100) to save cropped images. Attention! After change the image "
+"quality, you need to regenerate all thumbnails!"
+msgstr ""
+
+#: includes/plugin.options.php:150
+msgid "Show page preloader"
+msgstr ""
+
+#: includes/plugin.options.php:151
+msgid ""
+"Select one of predefined styles for the page preloader or upload preloader "
+"image"
+msgstr ""
+
+#: includes/plugin.options.php:154
+msgid "Hide preloader"
+msgstr ""
+
+#: includes/plugin.options.php:155 shortcodes/countdown/countdown.php:117
+msgid "Circle"
+msgstr ""
+
+#: includes/plugin.options.php:156
+msgid "Square"
+msgstr ""
+
+#: includes/plugin.options.php:162
+msgid "Page preloader image"
+msgstr ""
+
+#: includes/plugin.options.php:163
+msgid ""
+"Select or upload page preloader image for your site. If empty - site not "
+"using preloader"
+msgstr ""
+
+#: includes/plugin.options.php:171
+msgid "Page preloader bg color"
+msgstr ""
+
+#: includes/plugin.options.php:172
+msgid ""
+"Select background color for the page preloader. If empty - not use "
+"background color"
+msgstr ""
+
+#: includes/plugin.options.php:177
+msgid "Add \"Scroll to Top\""
+msgstr ""
+
+#: includes/plugin.options.php:178
+msgid "Add \"Scroll to Top\" button when page is scrolled down"
+msgstr ""
+
+#: includes/plugin.options.php:183
+msgid "Animate inner links"
+msgstr ""
+
+#: includes/plugin.options.php:184
+msgid "Add \"Smooth Scroll\" to the inner page links (started with \"#\")"
+msgstr ""
+
+#: includes/plugin.options.php:189
+msgid "Popup Engine"
+msgstr ""
+
+#: includes/plugin.options.php:190
+msgid ""
+"Select script to show popup windows with images and any other html code"
+msgstr ""
+
+#: includes/plugin.options.php:193 shortcodes/blogger/blogger.php:203
+#: shortcodes/content/content.php:140 shortcodes/content/content.php:153
+#: shortcodes/content/content.php:166 shortcodes/shortcodes.php:411
+#: shortcodes/table/table.php:116
+msgid "None"
+msgstr ""
+
+#: includes/plugin.options.php:194
+msgid "Magnific Popup"
+msgstr ""
+
+#: includes/plugin.options.php:200
+msgid "Menu parameters"
+msgstr ""
+
+#: includes/plugin.options.php:204
+msgid "Use menu cache"
+msgstr ""
+
+#: includes/plugin.options.php:205
+msgid ""
+"Use cache for the menu (increase theme speed, decrease queries number). "
+"Attention! Please, save menu again after change permalink settings! "
+"Uncheck this option if you use WPML!"
+msgstr ""
+
+#: includes/plugin.options.php:210
+msgid "Breadcrumbs nestings"
+msgstr ""
+
+#: includes/plugin.options.php:211
+msgid ""
+"Max nesting level of the breadcrumbs. If empty or 0 - display all "
+"breadcrumbs elements!"
+msgstr ""
+
+#: includes/plugin.options.php:216
+msgid "Login and Registration"
+msgstr ""
+
+#: includes/plugin.options.php:217
+msgid "Specify parameters of the User's Login and Registration"
+msgstr ""
+
+#: includes/plugin.options.php:221
+msgid "Login via AJAX"
+msgstr ""
+
+#: includes/plugin.options.php:222
+msgid ""
+"Login via AJAX or use direct link on the WP Login page. Uncheck it if you "
+"have problem with any login plugin."
+msgstr ""
+
+#: includes/plugin.options.php:227
+msgid "Login via social profiles"
+msgstr ""
+
+#: includes/plugin.options.php:228
+msgid ""
+"Specify shortcode from your Social Login Plugin or any HTML/JS code to "
+"make Social Login section"
+msgstr ""
+
+#: includes/plugin.options.php:233
+msgid "Notify about new registration"
+msgstr ""
+
+#: includes/plugin.options.php:234
+msgid ""
+"Send E-mail with a new registration data to the site admin e-mail and/or "
+"to the new user's e-mail"
+msgstr ""
+
+#: includes/plugin.options.php:237
+msgid "No"
+msgstr ""
+
+#: includes/plugin.options.php:238
+msgid "Both"
+msgstr ""
+
+#: includes/plugin.options.php:239
+msgid "Admin"
+msgstr ""
+
+#: includes/plugin.options.php:240
+msgid "User"
+msgstr ""
+
+#: includes/plugin.options.php:248
+msgid "API"
+msgstr ""
+
+#: includes/plugin.options.php:249
+msgid "API Keys for some Web-services"
+msgstr ""
+
+#: includes/plugin.options.php:253
+msgid "Google API"
+msgstr ""
+
+#: includes/plugin.options.php:254
+msgid ""
+"Control loading Google API script and specify Google API Key to access "
+"Google map services"
+msgstr ""
+
+#: includes/plugin.options.php:258
+msgid "Load Google API script"
+msgstr ""
+
+#: includes/plugin.options.php:259
+msgid ""
+"Uncheck this field to disable loading Google API script if it loaded by "
+"another plugin"
+msgstr ""
+
+#: includes/plugin.options.php:264
+msgid "Google API Key"
+msgstr ""
+
+#: includes/plugin.options.php:265
+msgid "Insert Google API Key for browsers into the field above"
+msgstr ""
+
+#: includes/plugin.options.php:277
+msgid "Links to the social profiles and post's share settings"
+msgstr ""
+
+#: includes/plugin.options.php:281
+msgid "Links to your social profiles"
+msgstr ""
+
+#: includes/plugin.options.php:282
+msgid "Links to your favorites social networks"
+msgstr ""
+
+#: includes/plugin.options.php:286 includes/plugin.options.php:328
+msgid "Twitter"
+msgstr ""
+
+#: includes/plugin.options.php:287
+msgid "Link to your profile in the Twitter"
+msgstr ""
+
+#: includes/plugin.options.php:292 includes/plugin.options.php:334
+msgid "Facebook"
+msgstr ""
+
+#: includes/plugin.options.php:293
+msgid "Link to your profile in the Facebook"
+msgstr ""
+
+#: includes/plugin.options.php:298 includes/plugin.options.php:340
+msgid "Google+"
+msgstr ""
+
+#: includes/plugin.options.php:299
+msgid "Link to your profile in the Google+"
+msgstr ""
+
+#: includes/plugin.options.php:304 includes/plugin.options.php:346
+msgid "Tumblr"
+msgstr ""
+
+#: includes/plugin.options.php:305
+msgid "Link to your profile in the Tumblr"
+msgstr ""
+
+#: includes/plugin.options.php:310
+msgid "Instagram"
+msgstr ""
+
+#: includes/plugin.options.php:311
+msgid "Link to your profile in the Instagram"
+msgstr ""
+
+#: includes/plugin.options.php:316
+msgid "Dribbble"
+msgstr ""
+
+#: includes/plugin.options.php:317
+msgid "Link to your profile in the Dribbble"
+msgstr ""
+
+#: includes/plugin.options.php:323
+msgid "URL to share posts"
+msgstr ""
+
+#: includes/plugin.options.php:324
+msgid ""
+"Specify URLs to share your posts in the social networks. If empty - no "
+"share post in this social network.<br>You can use next macros to include "
+"post's parts into the URL:<br><br>{link} - post's URL,<br>{title} - title "
+"of the post,<br>{descr} - excerpt of the post,<br>{image} - post's "
+"featured image URL,<br>{id} - post's ID"
+msgstr ""
+
+#: includes/plugin.options.php:329
+msgid "URL to share your posts in the Twitter"
+msgstr ""
+
+#: includes/plugin.options.php:335
+msgid "URL to share your posts in the Facebook"
+msgstr ""
+
+#: includes/plugin.options.php:341
+msgid "URL to share your posts in the Google+"
+msgstr ""
+
+#: includes/plugin.options.php:347
+msgid "URL to share your posts in the Tumblr"
+msgstr ""
+
+#: includes/plugin.options.php:352 shortcodes/form/tpl.default.php:44
+#: shortcodes/form/tpl.detailed.php:43 shortcodes/form/tpl.modern.php:93
+#: templates/tpl.login-popup.php:122 templates/tpl.login-popup.php:123
+#: widgets/contacts/contacts.php:345
+msgid "E-mail"
+msgstr ""
+
+#: includes/plugin.options.php:353
+msgid "URL to share your posts via E-mail"
+msgstr ""
+
+#: includes/plugin.options.php:362
+msgid "Shortcodes"
+msgstr ""
+
+#: includes/plugin.options.php:363
+msgid "Shortcodes settings"
+msgstr ""
+
+#: includes/plugin.options.php:367 shortcodes/anchor/anchor.php:105
+msgid "Anchor"
+msgstr ""
+
+#: includes/plugin.options.php:368
+msgid "Settings of the 'Anchor' shortcode"
+msgstr ""
+
+#: includes/plugin.options.php:372
+msgid "Scroll to Anchor"
+msgstr ""
+
+#: includes/plugin.options.php:373
+msgid "Scroll to Prev/Next anchor on mouse wheel"
+msgstr ""
+
+#: includes/plugin.options.php:378
+msgid "Update location from Anchor"
+msgstr ""
+
+#: includes/plugin.options.php:379
+msgid ""
+"Update browser location bar form the anchor's href when page is scrolling"
+msgstr ""
+
+#: includes/plugin.options.php:384
+msgid "Form fields"
+msgstr ""
+
+#: includes/plugin.options.php:385
+msgid "Settings of the hover effects on the Form fields and post comments"
+msgstr ""
+
+#: includes/plugin.options.php:389
+msgid "Input field's hover"
+msgstr ""
+
+#: includes/plugin.options.php:390
+msgid ""
+"Select the default hover effect of the shortcode 'form' input fields and "
+"of the comment's form (if theme support)"
+msgstr ""
+
+#: includes/plugin.options.php:399
+msgid "Theme specific"
+msgstr ""
+
+#: includes/plugin.options.php:400
+msgid "Theme specific settings"
+msgstr ""
+
+#: includes/plugin.options.php:404
+msgid "Columns Grid"
+msgstr ""
+
+#: includes/plugin.options.php:405
+msgid ""
+"Theme-specific classes to use it instead plugin's internal classes to "
+"create columns"
+msgstr ""
+
+#: includes/plugin.options.php:409
+msgid "Column's wrap class"
+msgstr ""
+
+#: includes/plugin.options.php:410
+msgid ""
+"Specify theme specific class for the column's wrap. If empty - use "
+"plugin's internal grid"
+msgstr ""
+
+#: includes/plugin.options.php:415
+msgid "Column's wrap class for fluid columns"
+msgstr ""
+
+#: includes/plugin.options.php:416
+msgid ""
+"Specify theme specific class for the fluid column's wrap. If empty - use "
+"plugin's internal grid"
+msgstr ""
+
+#: includes/plugin.options.php:421
+msgid "Class for the single column"
+msgstr ""
+
+#: includes/plugin.options.php:422
+msgid ""
+"For example: column-$1_$2, where $1 - column width, $2 - total columns: "
+"column-1_4, column-2_3, etc. If empty - use plugin's internal grid"
+msgstr ""
+
+#: includes/plugin.socials.php:88
+msgid "Share:"
+msgstr ""
+
+#: includes/plugin.users.php:43 templates/tpl.login-popup.php:20
+#: templates/tpl.login-popup.php:51 templates/tpl.login-popup.php:52
+#: templates/tpl.login-popup.php:76 templates/tpl.login-popup.php:108
+#: templates/tpl.login-popup.php:109
+msgid "Login"
+msgstr ""
+
+#: includes/plugin.users.php:90
+msgid "The Login field can't be empty"
+msgstr ""
+
+#: includes/plugin.users.php:91
+msgid "The Login field is too long"
+msgstr ""
+
+#: includes/plugin.users.php:92
+msgid "The password can't be empty and shorter then 4 characters"
+msgstr ""
+
+#: includes/plugin.users.php:93
+msgid "The password is too long"
+msgstr ""
+
+#: includes/plugin.users.php:94
+msgid "Login success! The page should be reloaded in 3 sec."
+msgstr ""
+
+#: includes/plugin.users.php:95
+msgid "Login failed!"
+msgstr ""
+
+#: includes/plugin.users.php:96
+msgid "Please, read and check 'Terms and Conditions'"
+msgstr ""
+
+#: includes/plugin.users.php:97
+msgid "E-mail address is too long"
+msgstr ""
+
+#: includes/plugin.users.php:98
+msgid "E-mail address is invalid"
+msgstr ""
+
+#: includes/plugin.users.php:99
+msgid "The passwords in both fields are not equal"
+msgstr ""
+
+#: includes/plugin.users.php:100
+msgid "Registration success! Please log in!"
+msgstr ""
+
+#: includes/plugin.users.php:101
+msgid "Registration failed!"
+msgstr ""
+
+#: includes/plugin.users.php:132
+#, php-format
+msgid "Site %s - New user registration: %s"
+msgstr ""
+
+#: includes/plugin.users.php:133
+msgid "New registration:"
+msgstr ""
+
+#: includes/plugin.users.php:134 includes/plugin.users.php:145
+#: shortcodes/form/form.php:68
+msgid "Name:"
+msgstr ""
+
+#: includes/plugin.users.php:135 includes/plugin.users.php:146
+#: shortcodes/form/form.php:69 shortcodes/form/tpl.detailed.php:91
+#: widgets/contacts/contacts.php:173
+msgid "E-mail:"
+msgstr ""
+
+#: includes/plugin.users.php:143
+#, php-format
+msgid "Welcome to the \"%s\""
+msgstr ""
+
+#: includes/plugin.users.php:144
+msgid "Your registration data:"
+msgstr ""
+
+#: includes/plugin.users.php:147
+msgid "Password:"
+msgstr ""
+
+#: includes/plugin.wp.php:86
+msgid "Scroll to top"
+msgstr ""
+
+#: includes/plugin.wp.php:265
+msgid "Comment"
+msgstr ""
+
+#: includes/plugin.wp.php:265
+msgid "Comments"
+msgstr ""
+
+#: includes/plugin.wp.php:272
+msgid "View"
+msgstr ""
+
+#: includes/plugin.wp.php:272
+msgid "Views"
+msgstr ""
+
+#: includes/plugin.wp.php:280 includes/plugin.wp.php:283
+#: includes/plugin.wp.php:286 includes/plugin.wp.php:391
+#: includes/plugin.wp.php:394
+msgid "Like"
+msgstr ""
+
+#: includes/plugin.wp.php:280 includes/plugin.wp.php:284
+#: includes/plugin.wp.php:391 includes/plugin.wp.php:395
+msgid "Dislike"
+msgstr ""
+
+#: includes/plugin.wp.php:286 includes/plugin.wp.php:397
+msgid "Likes"
+msgstr ""
+
+#: includes/plugin.wp.php:551 includes/plugin.wp.php:707
+msgid "Home"
+msgstr ""
+
+#: includes/plugin.wp.php:686 includes/plugin.wp.php:709
+msgid "All Posts"
+msgstr ""
+
+#: includes/plugin.wp.php:712
+#, php-format
+msgid "Author page: %s"
+msgstr ""
+
+#: includes/plugin.wp.php:714
+msgid "URL not found"
+msgstr ""
+
+#: includes/plugin.wp.php:716
+#, php-format
+msgid "Search: %s"
+msgstr ""
+
+#: includes/plugin.wp.php:718
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: includes/plugin.wp.php:720
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: includes/plugin.wp.php:722
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: includes/plugin.wp.php:724 includes/plugin.wp.php:728
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: includes/plugin.wp.php:726
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: includes/plugin.wp.php:730
+#, php-format
+msgid "Attachment: %s"
+msgstr ""
+
+#: includes/plugin.wp.php:759
+msgid "Previous posts"
+msgstr ""
+
+#: includes/plugin.wp.php:759
+msgid "Newest posts"
+msgstr ""
+
+#: includes/plugin.wp.php:760
+msgid "Next posts"
+msgstr ""
+
+#: includes/plugin.wp.php:760
+msgid "Older posts"
+msgstr ""
+
+#: includes/plugin.wp.php:783
+msgid "&laquo; First"
+msgstr ""
+
+#: includes/plugin.wp.php:784
+msgid "Last &raquo;"
+msgstr ""
+
+#: includes/plugin.wp.php:785
+msgid "&laquo; Prev"
+msgstr ""
+
+#: includes/plugin.wp.php:786
+msgid "Next &raquo;"
+msgstr ""
+
+#: includes/plugin.wp.php:1084 includes/plugin.wp.php:1103
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: includes/plugin.wp.php:1257
+msgid "Large image URL:"
+msgstr ""
+
+#: includes/plugin.wp.php:1270
+msgid "Small image (icon) URL:"
+msgstr ""
+
+#: includes/plugin.wp.php:1428 includes/plugin.wp.php:1486
+#: includes/plugin.wp.php:1663 includes/plugin.wp.php:1681
+msgid "- Not selected -"
+msgstr ""
+
+#: includes/plugin.wp.php:1531
+msgid "Accented"
+msgstr ""
+
+#: includes/plugin.wp.php:1532
+msgid "Path"
+msgstr ""
+
+#: includes/plugin.wp.php:1533
+msgid "Jump"
+msgstr ""
+
+#: includes/plugin.wp.php:1534
+msgid "Underline"
+msgstr ""
+
+#: includes/plugin.wp.php:1546
+msgid "Fade Box"
+msgstr ""
+
+#: includes/plugin.wp.php:1547
+msgid "Slide Line"
+msgstr ""
+
+#: includes/plugin.wp.php:1548
+msgid "Slide Box"
+msgstr ""
+
+#: includes/plugin.wp.php:1549
+msgid "Zoom Line"
+msgstr ""
+
+#: includes/plugin.wp.php:1550
+msgid "Path Line"
+msgstr ""
+
+#: includes/plugin.wp.php:1551
+msgid "Roll Down"
+msgstr ""
+
+#: includes/plugin.wp.php:1552
+msgid "Color Line"
+msgstr ""
+
+#: includes/plugin.wp.php:1562 includes/plugin.wp.php:1608
+msgid "- None -"
+msgstr ""
+
+#: includes/plugin.wp.php:1563
+msgid "Bounce In"
+msgstr ""
+
+#: includes/plugin.wp.php:1564
+msgid "Bounce In Up"
+msgstr ""
+
+#: includes/plugin.wp.php:1565
+msgid "Bounce In Down"
+msgstr ""
+
+#: includes/plugin.wp.php:1566
+msgid "Bounce In Left"
+msgstr ""
+
+#: includes/plugin.wp.php:1567
+msgid "Bounce In Right"
+msgstr ""
+
+#: includes/plugin.wp.php:1568
+msgid "Elastic In"
+msgstr ""
+
+#: includes/plugin.wp.php:1569
+msgid "Fade In"
+msgstr ""
+
+#: includes/plugin.wp.php:1570
+msgid "Fade In Up"
+msgstr ""
+
+#: includes/plugin.wp.php:1571
+msgid "Fade In Up Small"
+msgstr ""
+
+#: includes/plugin.wp.php:1572
+msgid "Fade In Up Big"
+msgstr ""
+
+#: includes/plugin.wp.php:1573
+msgid "Fade In Down"
+msgstr ""
+
+#: includes/plugin.wp.php:1574
+msgid "Fade In Down Big"
+msgstr ""
+
+#: includes/plugin.wp.php:1575
+msgid "Fade In Left"
+msgstr ""
+
+#: includes/plugin.wp.php:1576
+msgid "Fade In Left Big"
+msgstr ""
+
+#: includes/plugin.wp.php:1577
+msgid "Fade In Right"
+msgstr ""
+
+#: includes/plugin.wp.php:1578
+msgid "Fade In Right Big"
+msgstr ""
+
+#: includes/plugin.wp.php:1579
+msgid "Flip In X"
+msgstr ""
+
+#: includes/plugin.wp.php:1580
+msgid "Flip In Y"
+msgstr ""
+
+#: includes/plugin.wp.php:1581
+msgid "Light Speed In"
+msgstr ""
+
+#: includes/plugin.wp.php:1582
+msgid "Rotate In"
+msgstr ""
+
+#: includes/plugin.wp.php:1583
+msgid "Rotate In Down Left"
+msgstr ""
+
+#: includes/plugin.wp.php:1584
+msgid "Rotate In Up Right"
+msgstr ""
+
+#: includes/plugin.wp.php:1585
+msgid "Rotate In Up Left"
+msgstr ""
+
+#: includes/plugin.wp.php:1586
+msgid "Rotate In Down Right"
+msgstr ""
+
+#: includes/plugin.wp.php:1587
+msgid "Roll In"
+msgstr ""
+
+#: includes/plugin.wp.php:1588
+msgid "Slide In Up"
+msgstr ""
+
+#: includes/plugin.wp.php:1589
+msgid "Slide In Down"
+msgstr ""
+
+#: includes/plugin.wp.php:1590
+msgid "Slide In Left"
+msgstr ""
+
+#: includes/plugin.wp.php:1591
+msgid "Slide In Right"
+msgstr ""
+
+#: includes/plugin.wp.php:1592
+msgid "Wipe In Left Top"
+msgstr ""
+
+#: includes/plugin.wp.php:1593
+msgid "Zoom In"
+msgstr ""
+
+#: includes/plugin.wp.php:1594
+msgid "Zoom In Up"
+msgstr ""
+
+#: includes/plugin.wp.php:1595
+msgid "Zoom In Down"
+msgstr ""
+
+#: includes/plugin.wp.php:1596
+msgid "Zoom In Left"
+msgstr ""
+
+#: includes/plugin.wp.php:1597
+msgid "Zoom In Right"
+msgstr ""
+
+#: includes/plugin.wp.php:1609
+msgid "Bounce Out"
+msgstr ""
+
+#: includes/plugin.wp.php:1610
+msgid "Bounce Out Up"
+msgstr ""
+
+#: includes/plugin.wp.php:1611
+msgid "Bounce Out Down"
+msgstr ""
+
+#: includes/plugin.wp.php:1612
+msgid "Bounce Out Left"
+msgstr ""
+
+#: includes/plugin.wp.php:1613
+msgid "Bounce Out Right"
+msgstr ""
+
+#: includes/plugin.wp.php:1614
+msgid "Fade Out"
+msgstr ""
+
+#: includes/plugin.wp.php:1615
+msgid "Fade Out Up"
+msgstr ""
+
+#: includes/plugin.wp.php:1616
+msgid "Fade Out Up Big"
+msgstr ""
+
+#: includes/plugin.wp.php:1617
+msgid "Fade Out Down Small"
+msgstr ""
+
+#: includes/plugin.wp.php:1618
+msgid "Fade Out Down Big"
+msgstr ""
+
+#: includes/plugin.wp.php:1619
+msgid "Fade Out Down"
+msgstr ""
+
+#: includes/plugin.wp.php:1620
+msgid "Fade Out Left"
+msgstr ""
+
+#: includes/plugin.wp.php:1621
+msgid "Fade Out Left Big"
+msgstr ""
+
+#: includes/plugin.wp.php:1622
+msgid "Fade Out Right"
+msgstr ""
+
+#: includes/plugin.wp.php:1623
+msgid "Fade Out Right Big"
+msgstr ""
+
+#: includes/plugin.wp.php:1624
+msgid "Flip Out X"
+msgstr ""
+
+#: includes/plugin.wp.php:1625
+msgid "Flip Out Y"
+msgstr ""
+
+#: includes/plugin.wp.php:1626
+msgid "Hinge Out"
+msgstr ""
+
+#: includes/plugin.wp.php:1627
+msgid "Light Speed Out"
+msgstr ""
+
+#: includes/plugin.wp.php:1628
+msgid "Rotate Out"
+msgstr ""
+
+#: includes/plugin.wp.php:1629
+msgid "Rotate Out Down Left"
+msgstr ""
+
+#: includes/plugin.wp.php:1630
+msgid "Rotate Out Up Right"
+msgstr ""
+
+#: includes/plugin.wp.php:1631
+msgid "Rotate Out Up Left"
+msgstr ""
+
+#: includes/plugin.wp.php:1632
+msgid "Rotate Out Down Right"
+msgstr ""
+
+#: includes/plugin.wp.php:1633
+msgid "Roll Out"
+msgstr ""
+
+#: includes/plugin.wp.php:1634
+msgid "Slide Out Up"
+msgstr ""
+
+#: includes/plugin.wp.php:1635
+msgid "Slide Out Down"
+msgstr ""
+
+#: includes/plugin.wp.php:1636
+msgid "Slide Out Left"
+msgstr ""
+
+#: includes/plugin.wp.php:1637
+msgid "Slide Out Right"
+msgstr ""
+
+#: includes/plugin.wp.php:1638
+msgid "Zoom Out"
+msgstr ""
+
+#: includes/plugin.wp.php:1639
+msgid "Zoom Out Up"
+msgstr ""
+
+#: includes/plugin.wp.php:1640
+msgid "Zoom Out Down"
+msgstr ""
+
+#: includes/plugin.wp.php:1641
+msgid "Zoom Out Left"
+msgstr ""
+
+#: includes/plugin.wp.php:1642
+msgid "Zoom Out Right"
+msgstr ""
+
+#: shortcodes/action/action.php:101
+msgid "Action"
+msgstr ""
+
+#: shortcodes/action/action.php:102
+msgid "Insert 'Call to action' or custom Events as slider or columns layout"
+msgstr ""
+
+#: shortcodes/action/action.php:125 shortcodes/blogger/blogger.php:189
+#: shortcodes/icons/icons.php:161 shortcodes/shortcodes.php:401
+#: shortcodes/skills/skills.php:208 widgets/twitter/twitter.php:293
+msgid "Columns"
+msgstr ""
+
+#: shortcodes/action/action.php:126 shortcodes/icons/icons.php:162
+msgid ""
+"Specify number of columns for icons. If empty - auto detect by items number"
+msgstr ""
+
+#: shortcodes/action/action.php:132
+msgid "Actions"
+msgstr ""
+
+#: shortcodes/action/action.php:133 shortcodes/icons/icons.php:177
+#: widgets/slider/slider.php:798
+msgid "Select icons, specify title and/or description for each item"
+msgstr ""
+
+#: shortcodes/action/action.php:137 shortcodes/googlemap/googlemap.php:214
+#: shortcodes/icons/icons.php:180 shortcodes/skills/skills.php:219
+msgid "One"
+msgstr ""
+
+#: shortcodes/action/action.php:158
+msgid "Text position"
+msgstr ""
+
+#: shortcodes/action/action.php:159
+msgid "Select position of the title, subtitle and description"
+msgstr ""
+
+#: shortcodes/action/action.php:162 shortcodes/content/content.php:187
+msgid "Top Left"
+msgstr ""
+
+#: shortcodes/action/action.php:163 shortcodes/content/content.php:188
+msgid "Top Center"
+msgstr ""
+
+#: shortcodes/action/action.php:164 shortcodes/content/content.php:189
+msgid "Top Right"
+msgstr ""
+
+#: shortcodes/action/action.php:165 shortcodes/content/content.php:190
+msgid "Middle Left"
+msgstr ""
+
+#: shortcodes/action/action.php:166 shortcodes/content/content.php:191
+msgid "Middle Center"
+msgstr ""
+
+#: shortcodes/action/action.php:167 shortcodes/content/content.php:192
+msgid "Middle Right"
+msgstr ""
+
+#: shortcodes/action/action.php:168 shortcodes/content/content.php:193
+#: widgets/slider/slider.php:194 widgets/slider/slider.php:677
+msgid "Bottom Left"
+msgstr ""
+
+#: shortcodes/action/action.php:169 shortcodes/content/content.php:194
+#: widgets/slider/slider.php:193 widgets/slider/slider.php:676
+msgid "Bottom Center"
+msgstr ""
+
+#: shortcodes/action/action.php:170 shortcodes/content/content.php:195
+#: widgets/slider/slider.php:195 widgets/slider/slider.php:678
+msgid "Bottom Right"
+msgstr ""
+
+#: shortcodes/action/action.php:177
+msgid "Enter title of the item"
+msgstr ""
+
+#: shortcodes/action/action.php:184
+msgid "Enter subtitle of the item"
+msgstr ""
+
+#: shortcodes/action/action.php:189 shortcodes/blogger/blogger.php:205
+#: shortcodes/countdown/countdown.php:123 shortcodes/shortcodes.php:413
+msgid "Date"
+msgstr ""
+
+#: shortcodes/action/action.php:190
+msgid "Specify date (and/or time) of this event"
+msgstr ""
+
+#: shortcodes/action/action.php:196
+msgid "Additional info for this item"
+msgstr ""
+
+#: shortcodes/action/action.php:202
+msgid "Enter short description of the item"
+msgstr ""
+
+#: shortcodes/action/action.php:207 shortcodes/icons/icons.php:208
+#: shortcodes/price/price.php:136 shortcodes/socials/socials.php:138
+#: widgets/slider/slider.php:822 widgets/slider/slider.php:898
+msgid "Link"
+msgstr ""
+
+#: shortcodes/action/action.php:208
+msgid "URL to link this item"
+msgstr ""
+
+#: shortcodes/action/action.php:213
+msgid "Link's text"
+msgstr ""
+
+#: shortcodes/action/action.php:214
+msgid "Caption of the link"
+msgstr ""
+
+#: shortcodes/action/action.php:220 shortcodes/skills/skills.php:263
+msgid "Select custom color of this item"
+msgstr ""
+
+#: shortcodes/action/action.php:225
+msgid "Background Color"
+msgstr ""
+
+#: shortcodes/action/action.php:226
+msgid "Select custom background color of this item"
+msgstr ""
+
+#: shortcodes/action/action.php:232
+msgid ""
+"Select or upload image or specify URL from other site to use it as icon"
+msgstr ""
+
+#: shortcodes/action/action.php:237
+msgid "Background image"
+msgstr ""
+
+#: shortcodes/action/action.php:238
+msgid ""
+"Select or upload image or specify URL from other site to use it as "
+"background of this item"
+msgstr ""
+
+#: shortcodes/action/action.php:247 shortcodes/googlemap/googlemap.php:195
+msgid "Height"
+msgstr ""
+
+#: shortcodes/action/action.php:249 shortcodes/action/action.php:256
+#: shortcodes/promo/promo.php:209 shortcodes/promo/promo.php:223
+#: shortcodes/promo/promo.php:240 shortcodes/promo/promo.php:254
+#: shortcodes/promo/promo.php:268 shortcodes/promo/promo.php:277
+#: shortcodes/promo/promo.php:286 shortcodes/promo/promo.php:293
+msgid "Dimensions"
+msgstr ""
+
+#: shortcodes/action/action.php:254 shortcodes/promo/promo.php:265
+msgid "Full height"
+msgstr ""
+
+#: shortcodes/action/action.php:255 shortcodes/promo/promo.php:266
+msgid "Stretch the height of the element to the full screen's height"
+msgstr ""
+
+#: shortcodes/action/action.php:259 shortcodes/promo/promo.php:270
+msgid "Full Height"
+msgstr ""
+
+#: shortcodes/anchor/anchor.php:106
+msgid "Insert anchor for the inner page navigation"
+msgstr ""
+
+#: shortcodes/anchor/anchor.php:116
+msgid "Anchor ID"
+msgstr ""
+
+#: shortcodes/anchor/anchor.php:117
+msgid "ID for the anchor"
+msgstr ""
+
+#: shortcodes/anchor/anchor.php:124
+msgid "Anchor title"
+msgstr ""
+
+#: shortcodes/anchor/anchor.php:129
+msgid "URL to navigate"
+msgstr ""
+
+#: shortcodes/anchor/anchor.php:130
+msgid "URL to navigate. If empty - use id to create anchor"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:115
+msgid "Blogger"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:116
+msgid "Display posts from specified category in many styles"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:134 trx_addons.php:169
+msgid "Classic"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:135
+msgid "Creative"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:154
+msgid "Select category to show posts"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:160 shortcodes/shortcodes.php:372
+msgid "IDs to show"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:161 shortcodes/shortcodes.php:373
+msgid ""
+"Comma separated IDs list to show. If not empty - parameters 'cat', "
+"'offset' and 'count' are ignored!"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:167 shortcodes/shortcodes.php:379
+msgid "Offset"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:168 shortcodes/shortcodes.php:380
+msgid "Specify number of items to skip before showed items"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:178 shortcodes/shortcodes.php:390
+msgid "Count"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:179 shortcodes/shortcodes.php:391
+msgid "Specify number of items to display"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:190 shortcodes/shortcodes.php:402
+#: widgets/twitter/twitter.php:294
+msgid "Specify number of columns. If empty - auto detect by items number"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:200 shortcodes/shortcodes.php:408
+msgid "Order by"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:201 shortcodes/shortcodes.php:409
+msgid "Select how to sort the posts"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:204 shortcodes/shortcodes.php:412
+msgid "Post ID"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:207 shortcodes/shortcodes.php:415
+msgid "Random"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:213 shortcodes/shortcodes.php:421
+msgid "Order"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:214 shortcodes/shortcodes.php:422
+msgid "Select sort order"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:216 shortcodes/shortcodes.php:424
+msgid "Descending"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:217 shortcodes/shortcodes.php:425
+msgid "Ascending"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:224 shortcodes/blogger/blogger.php:232
+#: shortcodes/shortcodes.php:222 shortcodes/shortcodes.php:226
+#: shortcodes/shortcodes.php:256
+msgid "Slider"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:225 shortcodes/shortcodes.php:223
+msgid "Show items as slider"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:237 shortcodes/shortcodes.php:231
+msgid "Slider pagination"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:238 shortcodes/shortcodes.php:232
+msgid "Show pagination bullets below slider"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:244 shortcodes/shortcodes.php:238
+msgid "Show bullets"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:249 shortcodes/shortcodes.php:243
+msgid "Space"
+msgstr ""
+
+#: shortcodes/blogger/blogger.php:250 shortcodes/shortcodes.php:244
+#: widgets/slider/slider.php:976
+msgid "Space between slides"
+msgstr ""
+
+#: shortcodes/blogger/tpl.classic-item.php:82
+#: shortcodes/blogger/tpl.creative-item.php:57
+#: shortcodes/blogger/tpl.default-item.php:77
+msgid "Read More"
+msgstr ""
+
+#: shortcodes/button/button.php:99
+msgid "Insert button"
+msgstr ""
+
+#: shortcodes/button/button.php:118
+msgid "Play"
+msgstr ""
+
+#: shortcodes/button/button.php:124 shortcodes/content/content.php:120
+#: shortcodes/promo/promo.php:207
+msgid "Size"
+msgstr ""
+
+#: shortcodes/button/button.php:125
+msgid "Size of the button"
+msgstr ""
+
+#: shortcodes/button/button.php:129 shortcodes/content/content.php:167
+#: shortcodes/icons/icons.php:148 shortcodes/promo/promo.php:214
+#: widgets/slider/slider.php:307
+msgid "Small"
+msgstr ""
+
+#: shortcodes/button/button.php:130 shortcodes/content/content.php:169
+#: shortcodes/icons/icons.php:149 shortcodes/promo/promo.php:215
+#: widgets/slider/slider.php:305
+msgid "Large"
+msgstr ""
+
+#: shortcodes/button/button.php:136 shortcodes/shortcodes.php:336
+msgid "Button URL"
+msgstr ""
+
+#: shortcodes/button/button.php:137
+msgid "Link URL for the button"
+msgstr ""
+
+#: shortcodes/button/button.php:143
+msgid "Title of the button."
+msgstr ""
+
+#: shortcodes/button/button.php:150
+msgid "Subtitle for the button"
+msgstr ""
+
+#: shortcodes/button/button.php:155
+msgid "Button alignment"
+msgstr ""
+
+#: shortcodes/button/button.php:156
+msgid "Select button alignment"
+msgstr ""
+
+#: shortcodes/button/button.php:167 shortcodes/content/content.php:149
+#: shortcodes/promo/promo.php:252
+msgid "Text alignment"
+msgstr ""
+
+#: shortcodes/button/button.php:168
+msgid "Select text alignment"
+msgstr ""
+
+#: shortcodes/button/button.php:179
+msgid "Button's background image"
+msgstr ""
+
+#: shortcodes/button/button.php:180
+msgid "Select the image from the library for this button's background"
+msgstr ""
+
+#: shortcodes/button/button.php:188
+msgid "or select an image"
+msgstr ""
+
+#: shortcodes/button/button.php:189
+msgid "Select the image instead the icon (if need)"
+msgstr ""
+
+#: shortcodes/button/button.php:195
+msgid "Icon position"
+msgstr ""
+
+#: shortcodes/button/button.php:196
+msgid ""
+"Place the image to the left or to the right or to the top of the button"
+msgstr ""
+
+#: shortcodes/content/content.php:96
+msgid "Content area"
+msgstr ""
+
+#: shortcodes/content/content.php:97
+msgid "Limit content width inside the fullwide rows"
+msgstr ""
+
+#: shortcodes/content/content.php:121
+msgid "Select size of the block"
+msgstr ""
+
+#: shortcodes/content/content.php:125 shortcodes/promo/promo.php:227
+msgid "1/1"
+msgstr ""
+
+#: shortcodes/content/content.php:126 shortcodes/promo/promo.php:228
+msgid "1/2"
+msgstr ""
+
+#: shortcodes/content/content.php:127 shortcodes/promo/promo.php:229
+msgid "1/3"
+msgstr ""
+
+#: shortcodes/content/content.php:128 shortcodes/promo/promo.php:230
+msgid "2/3"
+msgstr ""
+
+#: shortcodes/content/content.php:129 shortcodes/promo/promo.php:231
+msgid "1/4"
+msgstr ""
+
+#: shortcodes/content/content.php:130 shortcodes/promo/promo.php:232
+msgid "3/4"
+msgstr ""
+
+#: shortcodes/content/content.php:136
+msgid "Block alignment"
+msgstr ""
+
+#: shortcodes/content/content.php:137
+msgid "Select alignment (floating position) of the block"
+msgstr ""
+
+#: shortcodes/content/content.php:150
+msgid "Select alignment of the inner text in the block"
+msgstr ""
+
+#: shortcodes/content/content.php:157
+msgid "Justify"
+msgstr ""
+
+#: shortcodes/content/content.php:163
+msgid "Inner paddings"
+msgstr ""
+
+#: shortcodes/content/content.php:164
+msgid "Select paddings around of the inner text in the block"
+msgstr ""
+
+#: shortcodes/content/content.php:168 shortcodes/icons/icons.php:147
+msgid "Medium"
+msgstr ""
+
+#: shortcodes/content/content.php:176
+msgid "Number to display in the corner of this area"
+msgstr ""
+
+#: shortcodes/content/content.php:182
+msgid "Number position"
+msgstr ""
+
+#: shortcodes/content/content.php:183
+msgid "Select position to display number"
+msgstr ""
+
+#: shortcodes/content/content.php:201
+msgid "Color of the number"
+msgstr ""
+
+#: shortcodes/content/content.php:202
+msgid "Select custom color of the number"
+msgstr ""
+
+#: shortcodes/countdown/countdown.php:100
+msgid "Countdown"
+msgstr ""
+
+#: shortcodes/countdown/countdown.php:101
+msgid "Put the countdown to the specified date and time"
+msgstr ""
+
+#: shortcodes/countdown/countdown.php:113 shortcodes/skills/skills.php:139
+msgid "Select counter's type"
+msgstr ""
+
+#: shortcodes/countdown/countdown.php:124
+msgid "Target date. Attention! Write the date in the format: yyyy-mm-dd"
+msgstr ""
+
+#: shortcodes/countdown/countdown.php:130
+msgid "Time"
+msgstr ""
+
+#: shortcodes/countdown/countdown.php:131
+msgid "Target time. Attention! Put the time in the 24-hours format: HH:mm:ss"
+msgstr ""
+
+#: shortcodes/countdown/countdown.php:137
+msgid "Alignment"
+msgstr ""
+
+#: shortcodes/countdown/countdown.php:138
+msgid "Select alignment of the countdown"
+msgstr ""
+
+#: shortcodes/countdown/tpl.default.php:41
+msgid "Days"
+msgstr ""
+
+#: shortcodes/countdown/tpl.default.php:57
+msgid "Hours"
+msgstr ""
+
+#: shortcodes/countdown/tpl.default.php:73
+msgid "Minutes"
+msgstr ""
+
+#: shortcodes/countdown/tpl.default.php:89
+msgid "Seconds"
+msgstr ""
+
+#: shortcodes/form/form.php:58
+msgid "Unknown admin email!"
+msgstr ""
+
+#: shortcodes/form/form.php:67
+#, php-format
+msgid "Site %s - Contact form message from %s"
+msgstr ""
+
+#: shortcodes/form/form.php:70 shortcodes/form/tpl.detailed.php:75
+#: widgets/contacts/contacts.php:163
+msgid "Phone:"
+msgstr ""
+
+#: shortcodes/form/form.php:71
+msgid "Message:"
+msgstr ""
+
+#: shortcodes/form/form.php:75
+msgid "Error send message!"
+msgstr ""
+
+#: shortcodes/form/form.php:135
+msgid "Form"
+msgstr ""
+
+#: shortcodes/form/form.php:136
+msgid "Insert simple or detailed form"
+msgstr ""
+
+#: shortcodes/form/form.php:148
+msgid "Select form's layout"
+msgstr ""
+
+#: shortcodes/form/form.php:160
+msgid "Select input's style"
+msgstr ""
+
+#: shortcodes/form/form.php:169
+msgid "Fields alignment"
+msgstr ""
+
+#: shortcodes/form/form.php:170
+msgid "Select alignment of the field's text"
+msgstr ""
+
+#: shortcodes/form/form.php:182
+msgid "Field labels"
+msgstr ""
+
+#: shortcodes/form/form.php:183
+msgid "Show field's labels"
+msgstr ""
+
+#: shortcodes/form/form.php:187
+msgid "Show labels"
+msgstr ""
+
+#: shortcodes/form/form.php:192 widgets/contacts/contacts.php:332
+msgid "Your phone"
+msgstr ""
+
+#: shortcodes/form/form.php:193
+msgid "Specify your phone for the detailed form"
+msgstr ""
+
+#: shortcodes/form/form.php:202
+msgid "Your E-mail"
+msgstr ""
+
+#: shortcodes/form/form.php:203
+msgid "Specify your E-mail for the detailed form"
+msgstr ""
+
+#: shortcodes/form/form.php:212
+msgid "Your address"
+msgstr ""
+
+#: shortcodes/form/form.php:213
+msgid "Specify your address for the detailed form"
+msgstr ""
+
+#: shortcodes/form/tpl.default.php:32 shortcodes/form/tpl.detailed.php:32
+#: shortcodes/form/tpl.modern.php:82
+msgid "Name"
+msgstr ""
+
+#: shortcodes/form/tpl.default.php:33 shortcodes/form/tpl.modern.php:83
+msgid "Your name"
+msgstr ""
+
+#: shortcodes/form/tpl.default.php:45 shortcodes/form/tpl.modern.php:94
+msgid "Your e-mail"
+msgstr ""
+
+#: shortcodes/form/tpl.default.php:57 shortcodes/form/tpl.detailed.php:54
+#: shortcodes/form/tpl.modern.php:108
+msgid "Message"
+msgstr ""
+
+#: shortcodes/form/tpl.default.php:58 shortcodes/form/tpl.modern.php:109
+msgid "Your message"
+msgstr ""
+
+#: shortcodes/form/tpl.default.php:76 shortcodes/form/tpl.detailed.php:60
+#: shortcodes/form/tpl.modern.php:116
+msgid "Send Message"
+msgstr ""
+
+#: shortcodes/form/tpl.detailed.php:33
+msgid "Enter your name"
+msgstr ""
+
+#: shortcodes/form/tpl.detailed.php:44
+msgid "Enter your e-mail"
+msgstr ""
+
+#: shortcodes/form/tpl.detailed.php:55
+msgid "Enter your message"
+msgstr ""
+
+#: shortcodes/form/tpl.detailed.php:107 widgets/contacts/contacts.php:158
+msgid "Address:"
+msgstr ""
+
+#: shortcodes/googlemap/googlemap.php:46
+msgid "Googlemap service is not available"
+msgstr ""
+
+#: shortcodes/googlemap/googlemap.php:47
+msgid "Error while geocode address"
+msgstr ""
+
+#: shortcodes/googlemap/googlemap.php:139
+msgid "Google Map"
+msgstr ""
+
+#: shortcodes/googlemap/googlemap.php:140
+msgid "Google map with custom styles and several markers"
+msgstr ""
+
+#: shortcodes/googlemap/googlemap.php:166
+msgid "Map custom style"
+msgstr ""
+
+#: shortcodes/googlemap/googlemap.php:171
+msgid "Greyscale"
+msgstr ""
+
+#: shortcodes/googlemap/googlemap.php:172
+msgid "Inverse"
+msgstr ""
+
+#: shortcodes/googlemap/googlemap.php:179
+msgid "Zoom"
+msgstr ""
+
+#: shortcodes/googlemap/googlemap.php:180
+msgid "Map zoom factor from 1 to 20"
+msgstr ""
+
+#: shortcodes/googlemap/googlemap.php:188 shortcodes/table/table.php:125
+msgid "Width"
+msgstr ""
+
+#: shortcodes/googlemap/googlemap.php:189
+msgid "Width of the element"
+msgstr ""
+
+#: shortcodes/googlemap/googlemap.php:196
+msgid "Height of the element"
+msgstr ""
+
+#: shortcodes/googlemap/googlemap.php:202
+#: shortcodes/googlemap/googlemap.php:224 widgets/contacts/contacts.php:324
+msgid "Address"
+msgstr ""
+
+#: shortcodes/googlemap/googlemap.php:203
+msgid ""
+"Specify address in this field if you don't need unique marker, title or "
+"latlng coordinates. Otherwise, leave this field empty and fill markers "
+"below"
+msgstr ""
+
+#: shortcodes/googlemap/googlemap.php:210
+msgid "Markers"
+msgstr ""
+
+#: shortcodes/googlemap/googlemap.php:211
+msgid "Add markers into this map"
+msgstr ""
+
+#: shortcodes/googlemap/googlemap.php:225
+msgid "Address of this marker"
+msgstr ""
+
+#: shortcodes/googlemap/googlemap.php:232
+msgid "Latitude and Longitude"
+msgstr ""
+
+#: shortcodes/googlemap/googlemap.php:233
+msgid "Comma separated coorditanes of the marker (instead Address)"
+msgstr ""
+
+#: shortcodes/googlemap/googlemap.php:240
+msgid "Marker image"
+msgstr ""
+
+#: shortcodes/googlemap/googlemap.php:241
+msgid "Select or upload image or write URL from other site for this marker"
+msgstr ""
+
+#: shortcodes/googlemap/googlemap.php:248
+msgid "Title for this marker"
+msgstr ""
+
+#: shortcodes/googlemap/googlemap.php:256
+msgid "Description of this marker"
+msgstr ""
+
+#: shortcodes/icons/icons.php:107 shortcodes/icons/icons.php:176
+#: shortcodes/shortcodes.php:573 shortcodes/socials/socials.php:123
+msgid "Icons"
+msgstr ""
+
+#: shortcodes/icons/icons.php:108
+msgid "Insert icons or images with title and description"
+msgstr ""
+
+#: shortcodes/icons/icons.php:126 widgets/slider/slider.php:241
+#: widgets/slider/slider.php:593
+msgid "Modern"
+msgstr ""
+
+#: shortcodes/icons/icons.php:132
+msgid "Align"
+msgstr ""
+
+#: shortcodes/icons/icons.php:133
+msgid "Select alignment of this item"
+msgstr ""
+
+#: shortcodes/icons/icons.php:144
+msgid "Icon size"
+msgstr ""
+
+#: shortcodes/icons/icons.php:145
+msgid "Select icon size"
+msgstr ""
+
+#: shortcodes/icons/icons.php:156
+msgid "Select custom color for each icon"
+msgstr ""
+
+#: shortcodes/icons/icons.php:196
+msgid "Enter title for this item"
+msgstr ""
+
+#: shortcodes/icons/icons.php:204
+msgid "Enter short description for this item"
+msgstr ""
+
+#: shortcodes/icons/icons.php:210
+msgid "URL to link this block"
+msgstr ""
+
+#: shortcodes/icons/icons.php:216
+msgid "Select custom color for this item"
+msgstr ""
+
+#: shortcodes/icons/icons.php:221 shortcodes/price/price.php:155
+#: widgets/slider/slider.php:829 widgets/slider/slider.php:905
+msgid "Select or upload image or specify URL from other site"
+msgstr ""
+
+#: shortcodes/popup/popup.php:91
+msgid "Popup"
+msgstr ""
+
+#: shortcodes/popup/popup.php:92
+msgid "Create popup window with some content"
+msgstr ""
+
+#: shortcodes/price/price.php:86
+msgid "Price block"
+msgstr ""
+
+#: shortcodes/price/price.php:87
+msgid "Add block with price, period and short description"
+msgstr ""
+
+#: shortcodes/price/price.php:111
+msgid "Subtitle of the price"
+msgstr ""
+
+#: shortcodes/price/price.php:117
+msgid "Title of the price"
+msgstr ""
+
+#: shortcodes/price/price.php:124
+msgid "Price description"
+msgstr ""
+
+#: shortcodes/price/price.php:129
+msgid "Price"
+msgstr ""
+
+#: shortcodes/price/price.php:130
+msgid "Price value"
+msgstr ""
+
+#: shortcodes/price/price.php:137
+msgid "Specify URL for the button under decription"
+msgstr ""
+
+#: shortcodes/price/price.php:144
+msgid "Specify text for the button under decription"
+msgstr ""
+
+#: shortcodes/price/price.php:164
+msgid "Details of this price"
+msgstr ""
+
+#: shortcodes/promo/promo.php:110
+msgid "Promo"
+msgstr ""
+
+#: shortcodes/promo/promo.php:111
+msgid "Insert promo block"
+msgstr ""
+
+#: shortcodes/promo/promo.php:139
+msgid "Button 2 URL"
+msgstr ""
+
+#: shortcodes/promo/promo.php:140
+msgid "Link URL for the button (at the side of the image)"
+msgstr ""
+
+#: shortcodes/promo/promo.php:149
+msgid "Button 2 text"
+msgstr ""
+
+#: shortcodes/promo/promo.php:150
+msgid "Caption for the button 2 (at the side of the image)"
+msgstr ""
+
+#: shortcodes/promo/promo.php:159
+msgid "Text bg color"
+msgstr ""
+
+#: shortcodes/promo/promo.php:160
+msgid "Select custom color, used as background of the text area"
+msgstr ""
+
+#: shortcodes/promo/promo.php:165
+msgid "Image URL"
+msgstr ""
+
+#: shortcodes/promo/promo.php:166
+msgid "Select the promo image from the library for this section"
+msgstr ""
+
+#: shortcodes/promo/promo.php:172
+msgid "Image position"
+msgstr ""
+
+#: shortcodes/promo/promo.php:173
+msgid "Place the image to the left or to the right from the text block"
+msgstr ""
+
+#: shortcodes/promo/promo.php:183
+msgid "Image width"
+msgstr ""
+
+#: shortcodes/promo/promo.php:184
+msgid "Width (in pixels or percents) of the block with image"
+msgstr ""
+
+#: shortcodes/promo/promo.php:191 shortcodes/promo/promo.php:195
+msgid "Image cover area"
+msgstr ""
+
+#: shortcodes/promo/promo.php:192
+msgid "Fit image into area or cover it"
+msgstr ""
+
+#: shortcodes/promo/promo.php:200
+msgid "Image bg color"
+msgstr ""
+
+#: shortcodes/promo/promo.php:201
+msgid "Select custom color, used as background of the image"
+msgstr ""
+
+#: shortcodes/promo/promo.php:208
+msgid ""
+"Size of the promo block: normal - one in the row, tiny - only image and "
+"title, small - insize two or greater columns, large - fullscreen height"
+msgstr ""
+
+#: shortcodes/promo/promo.php:213
+msgid "Tiny"
+msgstr ""
+
+#: shortcodes/promo/promo.php:221
+msgid "Text width"
+msgstr ""
+
+#: shortcodes/promo/promo.php:222
+msgid "Select width of the text block"
+msgstr ""
+
+#: shortcodes/promo/promo.php:238
+msgid "Text block floating"
+msgstr ""
+
+#: shortcodes/promo/promo.php:239
+msgid "Select alignment (floating position) of the text block"
+msgstr ""
+
+#: shortcodes/promo/promo.php:253
+msgid "Align text to the left or to the right side inside the block"
+msgstr ""
+
+#: shortcodes/promo/promo.php:275
+msgid "Text paddings"
+msgstr ""
+
+#: shortcodes/promo/promo.php:276
+msgid "Add horizontal paddings from the text block"
+msgstr ""
+
+#: shortcodes/promo/promo.php:279
+msgid "With paddings"
+msgstr ""
+
+#: shortcodes/promo/promo.php:284
+msgid "Text margins"
+msgstr ""
+
+#: shortcodes/promo/promo.php:285
+msgid ""
+"Margins for the all sides of the text block (Example: 30px 10px 40px 30px "
+"= top right botton left OR 30px = equal for all sides)"
+msgstr ""
+
+#: shortcodes/promo/promo.php:291
+msgid "Gap"
+msgstr ""
+
+#: shortcodes/promo/promo.php:292
+msgid "Gap between text and image (in percent)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:183
+msgid "Element ID"
+msgstr ""
+
+#: shortcodes/shortcodes.php:184
+msgid "ID for current element"
+msgstr ""
+
+#: shortcodes/shortcodes.php:190
+msgid "Element CSS class"
+msgstr ""
+
+#: shortcodes/shortcodes.php:191
+msgid "CSS class for current element"
+msgstr ""
+
+#: shortcodes/shortcodes.php:197
+msgid "CSS box"
+msgstr ""
+
+#: shortcodes/shortcodes.php:198
+msgid "Design Options"
+msgstr ""
+
+#: shortcodes/shortcodes.php:205
+msgid "ID &amp; Class"
+msgstr ""
+
+#: shortcodes/shortcodes.php:271
+msgid "Title style"
+msgstr ""
+
+#: shortcodes/shortcodes.php:272
+msgid "Select style of the title and subtitle"
+msgstr ""
+
+#: shortcodes/shortcodes.php:277
+msgid "Shadow"
+msgstr ""
+
+#: shortcodes/shortcodes.php:283
+msgid "Title tag"
+msgstr ""
+
+#: shortcodes/shortcodes.php:284
+msgid "Select tag (level) of the title"
+msgstr ""
+
+#: shortcodes/shortcodes.php:288
+msgid "Heading 1"
+msgstr ""
+
+#: shortcodes/shortcodes.php:289
+msgid "Heading 2"
+msgstr ""
+
+#: shortcodes/shortcodes.php:290
+msgid "Heading 3"
+msgstr ""
+
+#: shortcodes/shortcodes.php:291
+msgid "Heading 4"
+msgstr ""
+
+#: shortcodes/shortcodes.php:292
+msgid "Heading 5"
+msgstr ""
+
+#: shortcodes/shortcodes.php:293
+msgid "Heading 6"
+msgstr ""
+
+#: shortcodes/shortcodes.php:313
+msgid "Title of the block. Enclose any words in {{ and }} to accent them"
+msgstr ""
+
+#: shortcodes/shortcodes.php:320
+msgid "Subtitle of the block"
+msgstr ""
+
+#: shortcodes/shortcodes.php:326
+msgid "Description of the block"
+msgstr ""
+
+#: shortcodes/shortcodes.php:337
+msgid "Link URL for the button at the bottom of the block"
+msgstr ""
+
+#: shortcodes/shortcodes.php:342
+msgid "Button's text"
+msgstr ""
+
+#: shortcodes/shortcodes.php:343
+msgid "Caption for the button at the bottom of the block"
+msgstr ""
+
+#: shortcodes/shortcodes.php:348
+msgid "Button's image"
+msgstr ""
+
+#: shortcodes/shortcodes.php:349
+msgid "Select the promo image from the library for this button"
+msgstr ""
+
+#: shortcodes/shortcodes.php:357 widgets/slider/slider.php:952
+msgid "Titles"
+msgstr ""
+
+#: shortcodes/shortcodes.php:434
+msgid "Query"
+msgstr ""
+
+#: shortcodes/shortcodes.php:472
+msgid "Icon library"
+msgstr ""
+
+#: shortcodes/shortcodes.php:474
+msgid "Font Awesome"
+msgstr ""
+
+#: shortcodes/shortcodes.php:484
+msgid "Select icon library."
+msgstr ""
+
+#: shortcodes/shortcodes.php:489
+msgid "Select icon from library."
+msgstr ""
+
+#: shortcodes/skills/skills.php:127
+msgid "Skill counters and pie charts"
+msgstr ""
+
+#: shortcodes/skills/skills.php:142
+msgid "Pie"
+msgstr ""
+
+#: shortcodes/skills/skills.php:143
+msgid "Counter"
+msgstr ""
+
+#: shortcodes/skills/skills.php:149
+msgid "Cutout"
+msgstr ""
+
+#: shortcodes/skills/skills.php:150
+#, php-format
+msgid "Specify pie cutout. You will see border width as 100% - cutout value"
+msgstr ""
+
+#: shortcodes/skills/skills.php:159
+msgid "Compact pie"
+msgstr ""
+
+#: shortcodes/skills/skills.php:160
+msgid "Show all values in one pie or each value in the single pie"
+msgstr ""
+
+#: shortcodes/skills/skills.php:173
+msgid "Select custom color to fill each item"
+msgstr ""
+
+#: shortcodes/skills/skills.php:179
+msgid "Background color"
+msgstr ""
+
+#: shortcodes/skills/skills.php:180
+msgid "Select custom color for item's background"
+msgstr ""
+
+#: shortcodes/skills/skills.php:190
+msgid "Border color"
+msgstr ""
+
+#: shortcodes/skills/skills.php:191
+msgid "Select custom color for item's border"
+msgstr ""
+
+#: shortcodes/skills/skills.php:201
+msgid "Max. value"
+msgstr ""
+
+#: shortcodes/skills/skills.php:202
+msgid "Enter max value for all items"
+msgstr ""
+
+#: shortcodes/skills/skills.php:209
+msgid ""
+"Specify number of columns for skills. If empty - auto detect by items "
+"number"
+msgstr ""
+
+#: shortcodes/skills/skills.php:215
+msgid "Values"
+msgstr ""
+
+#: shortcodes/skills/skills.php:216
+msgid "Specify values for each counter"
+msgstr ""
+
+#: shortcodes/skills/skills.php:229
+msgid "Two"
+msgstr ""
+
+#: shortcodes/skills/skills.php:243
+msgid "Enter subtitle of this item"
+msgstr ""
+
+#: shortcodes/skills/skills.php:250
+msgid "Enter title of this item"
+msgstr ""
+
+#: shortcodes/skills/skills.php:256
+msgid "Value"
+msgstr ""
+
+#: shortcodes/skills/skills.php:257
+msgid "Enter value of this item"
+msgstr ""
+
+#: shortcodes/socials/socials.php:86
+msgid "Insert social icons with links on your profiles"
+msgstr ""
+
+#: shortcodes/socials/socials.php:109
+msgid "Icons alignment"
+msgstr ""
+
+#: shortcodes/socials/socials.php:110
+msgid "Select alignment of the icons"
+msgstr ""
+
+#: shortcodes/socials/socials.php:124
+msgid "Select social icons and specify link for each item"
+msgstr ""
+
+#: shortcodes/socials/socials.php:141
+msgid "URL to the social profile"
+msgstr ""
+
+#: shortcodes/table/table.php:89
+msgid "Table"
+msgstr ""
+
+#: shortcodes/table/table.php:90
+msgid "Insert a table"
+msgstr ""
+
+#: shortcodes/table/table.php:112
+msgid "Table alignment"
+msgstr ""
+
+#: shortcodes/table/table.php:113
+msgid "Select alignment of the table"
+msgstr ""
+
+#: shortcodes/table/table.php:126
+msgid "Width of the table"
+msgstr ""
+
+#: shortcodes/table/table.php:132
+msgid ""
+"Content, created with any table-generator, for example: http://www."
+"impressivewebs.com/html-table-code-generator/ or http://html-tables.com/"
+msgstr ""
+
+#: shortcodes/title/title.php:85
+msgid "Add title, subtitle and description"
+msgstr ""
+
+#: templates/tpl.login-link.php:27
+msgid "Logout"
+msgstr ""
+
+#: templates/tpl.login-popup.php:31
+msgid "Register"
+msgstr ""
+
+#: templates/tpl.login-popup.php:65 templates/tpl.login-popup.php:66
+#: templates/tpl.login-popup.php:146 templates/tpl.login-popup.php:147
+msgid "Password"
+msgstr ""
+
+#: templates/tpl.login-popup.php:72
+msgid "Forgot password?"
+msgstr ""
+
+#: templates/tpl.login-popup.php:73
+msgid "Remember me"
+msgstr ""
+
+#: templates/tpl.login-popup.php:84
+msgid "or you can login using your favorite social profile!"
+msgstr ""
+
+#: templates/tpl.login-popup.php:160 templates/tpl.login-popup.php:161
+msgid "Confirm Password"
+msgstr ""
+
+#: templates/tpl.login-popup.php:167
+msgid "Minimum 4 characters"
+msgstr ""
+
+#: templates/tpl.login-popup.php:171
+msgid "Sign Up"
+msgstr ""
+
+#: templates/tpl.post-counters.php:24 templates/tpl.sc_post_meta.php:41
+msgid "Share"
+msgstr ""
+
+#: templates/tpl.post-counters.php:33 templates/tpl.sc_post_meta.php:50
+msgid "Edit"
+msgstr ""
+
+#: templates/tpl.posts-list.php:58
+msgid "by"
+msgstr ""
+
+#: templates/tpl.sc_post_meta.php:21
+msgid "By "
+msgstr ""
+
+#: templates/tpl.search-form.php:10
+msgid "Search"
+msgstr ""
+
+#: trx_addons.php:162
+msgid "Large image"
+msgstr ""
+
+#: trx_addons.php:163
+msgid "Medium image"
+msgstr ""
+
+#: trx_addons.php:164
+msgid "Small image"
+msgstr ""
+
+#: trx_addons.php:165
+msgid "Portrait"
+msgstr ""
+
+#: trx_addons.php:166
+msgid "Big square avatar"
+msgstr ""
+
+#: trx_addons.php:167
+msgid "Small square avatar"
+msgstr ""
+
+#: trx_addons.php:168
+msgid "Masonry (scaled)"
+msgstr ""
+
+#: trx_addons.php:269
+msgid "Invalid server answer!"
+msgstr ""
+
+#: trx_addons.php:270
+msgid "Loading image"
+msgstr ""
+
+#: trx_addons.php:271
+msgid "Error loading image"
+msgstr ""
+
+#: trx_addons.php:272
+msgid "Error saving your like! Please, try again later."
+msgstr ""
+
+#: trx_addons.php:273
+msgid "The name can't be empty"
+msgstr ""
+
+#: trx_addons.php:274
+msgid "Too short (or empty) email address"
+msgstr ""
+
+#: trx_addons.php:275
+msgid "Invalid email address"
+msgstr ""
+
+#: trx_addons.php:276
+msgid "The message text can't be empty"
+msgstr ""
+
+#: trx_addons.php:277
+msgid "Search error! Try again later."
+msgstr ""
+
+#: trx_addons.php:278
+msgid "Send message complete!"
+msgstr ""
+
+#: trx_addons.php:279
+msgid "Transmit failed!"
+msgstr ""
+
+#: trx_addons.php:299
+msgid "ATTENTION! This file was generated automatically! Don't change it!!!"
+msgstr ""
+
+#: trx_addons.php:437
+msgid "I agree that my submitted data is being collected and stored."
+msgstr ""
+
+#: trx_addons.php:440
+#, php-format
+msgid "For further details on handling user data, see our %s"
+msgstr ""
+
+#: trx_addons.php:442
+msgid "Privacy Policy"
+msgstr ""
+
+#: widgets/audio/audio.php:22
+msgid ""
+"Play audio from Soundcloud and other audio hostings or Local hosted audio"
+msgstr ""
+
+#: widgets/audio/audio.php:23
+msgid "ThemeREX Addons - Audio player"
+msgstr ""
+
+#: widgets/audio/audio.php:78 widgets/flickr/flickr.php:64
+#: widgets/slider/slider.php:200 widgets/twitter/twitter.php:121
+#: widgets/video/video.php:76
+msgid "Title:"
+msgstr ""
+
+#: widgets/audio/audio.php:83
+msgid "Caption:"
+msgstr ""
+
+#: widgets/audio/audio.php:88
+msgid "Author:"
+msgstr ""
+
+#: widgets/audio/audio.php:93 widgets/video/video.php:81
+msgid "Cover image URL:<br />(leave empty if you not need the cover)"
+msgstr ""
+
+#: widgets/audio/audio.php:104
+msgid "Select local hosted audio"
+msgstr ""
+
+#: widgets/audio/audio.php:112
+msgid "or paste HTML code to embed audio:"
+msgstr ""
+
+#: widgets/audio/audio.php:195
+msgid "Widget Audio player"
+msgstr ""
+
+#: widgets/audio/audio.php:196
+msgid ""
+"Insert widget with embedded audio from popular audio hosting: SoundCloud, "
+"etc. or with local hosted audio"
+msgstr ""
+
+#: widgets/audio/audio.php:207 widgets/contacts/contacts.php:299
+#: widgets/flickr/flickr.php:167 widgets/recent_posts/recent_posts.php:241
+#: widgets/slider/slider.php:543 widgets/twitter/twitter.php:279
+#: widgets/video/video.php:190
+msgid "Widget title"
+msgstr ""
+
+#: widgets/audio/audio.php:208 widgets/contacts/contacts.php:300
+#: widgets/flickr/flickr.php:168 widgets/recent_posts/recent_posts.php:242
+#: widgets/slider/slider.php:544 widgets/twitter/twitter.php:280
+#: widgets/video/video.php:191
+msgid "Title of the widget"
+msgstr ""
+
+#: widgets/audio/audio.php:214
+msgid "Audio caption"
+msgstr ""
+
+#: widgets/audio/audio.php:215
+msgid "Caption of this audio"
+msgstr ""
+
+#: widgets/audio/audio.php:221
+msgid "Author name"
+msgstr ""
+
+#: widgets/audio/audio.php:222
+msgid "Name of the author"
+msgstr ""
+
+#: widgets/audio/audio.php:227 widgets/video/video.php:197
+msgid "Cover image"
+msgstr ""
+
+#: widgets/audio/audio.php:228 widgets/video/video.php:198
+msgid "Select or upload cover image or write URL from other site"
+msgstr ""
+
+#: widgets/audio/audio.php:233
+msgid "Audio URL"
+msgstr ""
+
+#: widgets/audio/audio.php:234
+msgid "URL for local hosted audio file"
+msgstr ""
+
+#: widgets/audio/audio.php:240
+msgid "Embed code"
+msgstr ""
+
+#: widgets/audio/audio.php:241
+msgid "or paste HTML code to embed audio"
+msgstr ""
+
+#: widgets/contacts/contacts.php:22
+msgid ""
+"Contacts - logo and short description, address, phone, skype and email"
+msgstr ""
+
+#: widgets/contacts/contacts.php:23
+msgid "ThemeREX Addons - Contacts"
+msgstr ""
+
+#: widgets/contacts/contacts.php:126
+#: widgets/recent_posts/recent_posts.php:117
+msgid "Widget title:"
+msgstr ""
+
+#: widgets/contacts/contacts.php:131
+msgid "Logo:"
+msgstr ""
+
+#: widgets/contacts/contacts.php:142
+msgid "Logo for Retina:"
+msgstr ""
+
+#: widgets/contacts/contacts.php:153
+msgid "Short description about user"
+msgstr ""
+
+#: widgets/contacts/contacts.php:168
+msgid "Skype:"
+msgstr ""
+
+#: widgets/contacts/contacts.php:179
+msgid "Show Social icons"
+msgstr ""
+
+#: widgets/contacts/contacts.php:184
+msgid "Show Google map"
+msgstr ""
+
+#: widgets/contacts/contacts.php:187
+msgid "Google map height:"
+msgstr ""
+
+#: widgets/contacts/contacts.php:192
+msgid "Google map position:"
+msgstr ""
+
+#: widgets/contacts/contacts.php:286
+msgid "Widget Contacts"
+msgstr ""
+
+#: widgets/contacts/contacts.php:287
+msgid "Insert widget with logo, short description and contacts"
+msgstr ""
+
+#: widgets/contacts/contacts.php:319
+msgid ""
+"Short description about user. If empty - get description of the first "
+"registered blog user"
+msgstr ""
+
+#: widgets/contacts/contacts.php:325
+msgid "Address string. Use '|' to split this string on two parts"
+msgstr ""
+
+#: widgets/contacts/contacts.php:331
+msgid "Phone"
+msgstr ""
+
+#: widgets/contacts/contacts.php:338
+msgid "Skype"
+msgstr ""
+
+#: widgets/contacts/contacts.php:339
+msgid "Your skype"
+msgstr ""
+
+#: widgets/contacts/contacts.php:346
+msgid "Your e-mail address"
+msgstr ""
+
+#: widgets/contacts/contacts.php:352
+msgid "Show Googlemap"
+msgstr ""
+
+#: widgets/contacts/contacts.php:353
+msgid "Do you want to display Google map with address above"
+msgstr ""
+
+#: widgets/contacts/contacts.php:360
+msgid "Googlemap height"
+msgstr ""
+
+#: widgets/contacts/contacts.php:361
+msgid "Height of the Google map"
+msgstr ""
+
+#: widgets/contacts/contacts.php:370
+msgid "Googlemap position"
+msgstr ""
+
+#: widgets/contacts/contacts.php:371
+msgid "Select position of the Google map"
+msgstr ""
+
+#: widgets/contacts/contacts.php:386
+msgid "Show Social Icons"
+msgstr ""
+
+#: widgets/contacts/contacts.php:387
+msgid ""
+"Do you want to display icons with links on your profiles in the Social "
+"networks?"
+msgstr ""
+
+#: widgets/flickr/flickr.php:22
+msgid "Last flickr photos."
+msgstr ""
+
+#: widgets/flickr/flickr.php:23
+msgid "ThemeREX Addons - Flickr photos"
+msgstr ""
+
+#: widgets/flickr/flickr.php:69
+msgid "Flickr ID:"
+msgstr ""
+
+#: widgets/flickr/flickr.php:74
+msgid "Number of photos:"
+msgstr ""
+
+#: widgets/flickr/flickr.php:155
+msgid "Widget Flickr photos"
+msgstr ""
+
+#: widgets/flickr/flickr.php:156
+msgid "Display the latest photos from Flickr account"
+msgstr ""
+
+#: widgets/flickr/flickr.php:176
+msgid "Flickr username"
+msgstr ""
+
+#: widgets/flickr/flickr.php:177
+msgid "Your Flickr username"
+msgstr ""
+
+#: widgets/flickr/flickr.php:184
+msgid "Number of photos"
+msgstr ""
+
+#: widgets/flickr/flickr.php:185
+msgid "How many photos to be displayed?"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:22
+msgid "The recent blog posts (extended) with images and post meta"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:23
+msgid "ThemeREX Addons - Recent Posts"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:122
+msgid "Number posts to show:"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:127
+msgid "Show post image:"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:129
+#: widgets/recent_posts/recent_posts.php:137
+#: widgets/recent_posts/recent_posts.php:145
+#: widgets/recent_posts/recent_posts.php:153
+#: widgets/recent_posts/recent_posts.php:161 widgets/slider/slider.php:313
+#: widgets/slider/slider.php:321
+msgid "Show"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:131
+#: widgets/recent_posts/recent_posts.php:139
+#: widgets/recent_posts/recent_posts.php:147
+#: widgets/recent_posts/recent_posts.php:155
+#: widgets/recent_posts/recent_posts.php:163 widgets/slider/slider.php:315
+#: widgets/slider/slider.php:323
+msgid "Hide"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:135
+msgid "Show post author:"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:143
+msgid "Show post date:"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:151
+msgid "Show post counters:"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:159
+msgid "Show post categories:"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:229
+msgid "Widget Recent Posts"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:230
+msgid "Insert recent posts list with thumbs, post's meta and category"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:248
+msgid "Number posts to show"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:249
+msgid "How many posts display in widget?"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:256
+msgid "Show post's image"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:257
+msgid "Do you want display post's featured image?"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:265
+msgid "Show post's author"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:266
+msgid "Do you want display post's author?"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:274
+msgid "Show post's date"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:275
+msgid "Do you want display post's publish date?"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:283
+msgid "Show post's counters"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:284
+msgid "Do you want display post's counters?"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:292
+msgid "Show post's categories"
+msgstr ""
+
+#: widgets/recent_posts/recent_posts.php:293
+msgid "Do you want display post's categories?"
+msgstr ""
+
+#: widgets/slider/slider.php:22
+msgid "Display theme slider"
+msgstr ""
+
+#: widgets/slider/slider.php:23
+msgid "ThemeREX Addons - Posts slider or Revolution slider"
+msgstr ""
+
+#: widgets/slider/slider.php:181 widgets/slider/slider.php:526
+msgid "Posts slider (Swiper)"
+msgstr ""
+
+#: widgets/slider/slider.php:187 widgets/slider/slider.php:529
+msgid "Layer slider (Revolution)"
+msgstr ""
+
+#: widgets/slider/slider.php:191 widgets/slider/slider.php:674
+msgid "No titles"
+msgstr ""
+
+#: widgets/slider/slider.php:205
+msgid "Slider engine:"
+msgstr ""
+
+#: widgets/slider/slider.php:218 widgets/slider/slider.php:558
+#: widgets/slider/slider.php:559
+msgid "Slider height"
+msgstr ""
+
+#: widgets/slider/slider.php:224
+msgid "Revolution Slider alias"
+msgstr ""
+
+#: widgets/slider/slider.php:238 widgets/slider/slider.php:585
+msgid "Swiper style"
+msgstr ""
+
+#: widgets/slider/slider.php:246 widgets/slider/slider.php:599
+msgid "Swiper effect"
+msgstr ""
+
+#: widgets/slider/slider.php:250 widgets/slider/slider.php:535
+msgid "Cube"
+msgstr ""
+
+#: widgets/slider/slider.php:251 widgets/slider/slider.php:536
+msgid "Flip"
+msgstr ""
+
+#: widgets/slider/slider.php:252 widgets/slider/slider.php:537
+msgid "Coverflow"
+msgstr ""
+
+#: widgets/slider/slider.php:257 widgets/slider/slider.php:610
+msgid "Category for the Swiper"
+msgstr ""
+
+#: widgets/slider/slider.php:270 widgets/slider/slider.php:633
+msgid "Slides per view in the Swiper"
+msgstr ""
+
+#: widgets/slider/slider.php:275 widgets/slider/slider.php:644
+#: widgets/slider/slider.php:645
+msgid "Space between slides in the Swiper"
+msgstr ""
+
+#: widgets/slider/slider.php:280
+msgid "Swiper posts:"
+msgstr ""
+
+#: widgets/slider/slider.php:285
+msgid "Swiper interval (in msec.)"
+msgstr ""
+
+#: widgets/slider/slider.php:290
+msgid "Show titles in the Swiper"
+msgstr ""
+
+#: widgets/slider/slider.php:303
+msgid "Show large titles:"
+msgstr ""
+
+#: widgets/slider/slider.php:311
+msgid "Show arrows:"
+msgstr ""
+
+#: widgets/slider/slider.php:319
+msgid "Show pagination:"
+msgstr ""
+
+#: widgets/slider/slider.php:550
+msgid "Slider engine"
+msgstr ""
+
+#: widgets/slider/slider.php:551
+msgid "Select engine to show slider"
+msgstr ""
+
+#: widgets/slider/slider.php:571
+msgid "RevSlider alias"
+msgstr ""
+
+#: widgets/slider/slider.php:572
+msgid "Select previously created Revolution slider"
+msgstr ""
+
+#: widgets/slider/slider.php:586
+msgid "Select style of the Swiper slider"
+msgstr ""
+
+#: widgets/slider/slider.php:600
+msgid "Select slides effect of the Swiper slider"
+msgstr ""
+
+#: widgets/slider/slider.php:611
+msgid "Select category to get posts for the slider"
+msgstr ""
+
+#: widgets/slider/slider.php:622
+msgid "Posts for the Swiper"
+msgstr ""
+
+#: widgets/slider/slider.php:623
+msgid "Number posts or comma separated post IDs to show in the Swiper"
+msgstr ""
+
+#: widgets/slider/slider.php:634
+msgid "Specify slides per view in the Swiper"
+msgstr ""
+
+#: widgets/slider/slider.php:655
+msgid "Interval between slides in the Swiper"
+msgstr ""
+
+#: widgets/slider/slider.php:656
+msgid "Specify interval between slides change in the Swiper"
+msgstr ""
+
+#: widgets/slider/slider.php:666
+msgid "Titles in the Swiper"
+msgstr ""
+
+#: widgets/slider/slider.php:667
+msgid "Show post's titles and categories on the slides"
+msgstr ""
+
+#: widgets/slider/slider.php:679
+msgid "Outside"
+msgstr ""
+
+#: widgets/slider/slider.php:685
+msgid "Large titles"
+msgstr ""
+
+#: widgets/slider/slider.php:686
+msgid "Do you want use large titles?"
+msgstr ""
+
+#: widgets/slider/slider.php:697 widgets/slider/slider.php:998
+msgid "Controls"
+msgstr ""
+
+#: widgets/slider/slider.php:698 widgets/slider/slider.php:999
+msgid "Do you want to show arrows to change slides?"
+msgstr ""
+
+#: widgets/slider/slider.php:709
+msgid "Prev Slide"
+msgstr ""
+
+#: widgets/slider/slider.php:710
+msgid ""
+"Label of the 'Prev Slide' button in the Swiper (Modern style). Use '|' to "
+"break line"
+msgstr ""
+
+#: widgets/slider/slider.php:726
+msgid "Next Slide"
+msgstr ""
+
+#: widgets/slider/slider.php:727
+msgid ""
+"Label of the 'Next Slide' button in the Swiper (Modern style). Use '|' to "
+"break line"
+msgstr ""
+
+#: widgets/slider/slider.php:743
+msgid "Pagination"
+msgstr ""
+
+#: widgets/slider/slider.php:744
+msgid "Do you want to show bullets to change slides?"
+msgstr ""
+
+#: widgets/slider/slider.php:756
+msgid "No resize slide's content"
+msgstr ""
+
+#: widgets/slider/slider.php:757
+msgid "Disable resize slide's content, stretch images to cover slide"
+msgstr ""
+
+#: widgets/slider/slider.php:758 widgets/slider/slider.php:771
+#: widgets/slider/slider.php:787 widgets/slider/slider.php:799
+msgid "Custom slides"
+msgstr ""
+
+#: widgets/slider/slider.php:769
+msgid "Type of the slides content"
+msgstr ""
+
+#: widgets/slider/slider.php:770
+msgid ""
+"Use images from slides as background (default) or insert it as tag inside "
+"each slide"
+msgstr ""
+
+#: widgets/slider/slider.php:778
+msgid "Background"
+msgstr ""
+
+#: widgets/slider/slider.php:779
+msgid "Image tag"
+msgstr ""
+
+#: widgets/slider/slider.php:785
+msgid "Slides ratio"
+msgstr ""
+
+#: widgets/slider/slider.php:786
+msgid "Ratio to resize slides on tabs and mobile"
+msgstr ""
+
+#: widgets/slider/slider.php:797
+msgid "Slides"
+msgstr ""
+
+#: widgets/slider/slider.php:810 widgets/slider/slider.php:886
+msgid "Enter title of this slide"
+msgstr ""
+
+#: widgets/slider/slider.php:817 widgets/slider/slider.php:893
+msgid "Enter subtitle of this slide"
+msgstr ""
+
+#: widgets/slider/slider.php:823 widgets/slider/slider.php:899
+msgid "URL to link of this slide"
+msgstr ""
+
+#: widgets/slider/slider.php:834 widgets/slider/slider.php:910
+msgid "Video URL"
+msgstr ""
+
+#: widgets/slider/slider.php:835 widgets/slider/slider.php:911
+#: widgets/video/video.php:204
+msgid ""
+"Enter link to the video (Note: read more about available formats at "
+"WordPress Codex page)"
+msgstr ""
+
+#: widgets/slider/slider.php:840 widgets/slider/slider.php:916
+msgid "Video embed code"
+msgstr ""
+
+#: widgets/slider/slider.php:841 widgets/slider/slider.php:917
+msgid "or paste the HTML code to embed video in this slide"
+msgstr ""
+
+#: widgets/slider/slider.php:852
+msgid "Widget Slider"
+msgstr ""
+
+#: widgets/slider/slider.php:853
+msgid "Insert widget with slider"
+msgstr ""
+
+#: widgets/slider/slider.php:870
+msgid "Custom Slide"
+msgstr ""
+
+#: widgets/slider/slider.php:871
+msgid "Insert the custom slide in the slider"
+msgstr ""
+
+#: widgets/slider/slider.php:930
+msgid "Slider Controller"
+msgstr ""
+
+#: widgets/slider/slider.php:931
+msgid "Insert controller for the specified slider"
+msgstr ""
+
+#: widgets/slider/slider.php:942
+msgid "Slave slider ID"
+msgstr ""
+
+#: widgets/slider/slider.php:943
+msgid "ID of the slave slider"
+msgstr ""
+
+#: widgets/slider/slider.php:949
+msgid "Select style of the Controller"
+msgstr ""
+
+#: widgets/slider/slider.php:951
+msgid "Thumbs"
+msgstr ""
+
+#: widgets/slider/slider.php:958
+msgid "Effect"
+msgstr ""
+
+#: widgets/slider/slider.php:959
+msgid "Select slides effect of the Controller"
+msgstr ""
+
+#: widgets/slider/slider.php:965
+msgid "Slides per view"
+msgstr ""
+
+#: widgets/slider/slider.php:966
+msgid "Specify slides per view in the Controller"
+msgstr ""
+
+#: widgets/slider/slider.php:977
+msgid "Space between slides in the Controller"
+msgstr ""
+
+#: widgets/slider/slider.php:987
+msgid "Interval between slides"
+msgstr ""
+
+#: widgets/slider/slider.php:988
+msgid "Specify interval between slides change in the Controller"
+msgstr ""
+
+#: widgets/slider/slider.php:1006 widgets/slider/slider.php:1007
+msgid "Controller height"
+msgstr ""
+
+#: widgets/twitter/tpl.default.php:74 widgets/twitter/tpl.list.php:33
+msgid "Follow us"
+msgstr ""
+
+#: widgets/twitter/twitter.php:22
+msgid "Last Twitter Updates. Version for new Twitter API 1.1"
+msgstr ""
+
+#: widgets/twitter/twitter.php:23
+msgid "ThemeREX Addons - Twitter"
+msgstr ""
+
+#: widgets/twitter/twitter.php:126
+msgid "Tweets number:"
+msgstr ""
+
+#: widgets/twitter/twitter.php:131
+msgid "Twitter Username:"
+msgstr ""
+
+#: widgets/twitter/twitter.php:136
+msgid "Consumer Key:"
+msgstr ""
+
+#: widgets/twitter/twitter.php:140
+msgid "Consumer Secret:"
+msgstr ""
+
+#: widgets/twitter/twitter.php:144
+msgid "Token Key:"
+msgstr ""
+
+#: widgets/twitter/twitter.php:148
+msgid "Token Secret:"
+msgstr ""
+
+#: widgets/twitter/twitter.php:154
+msgid "Show \"Follow us\""
+msgstr ""
+
+#: widgets/twitter/twitter.php:158
+msgid "Background image:"
+msgstr ""
+
+#: widgets/twitter/twitter.php:269
+msgid "Select widget's layout"
+msgstr ""
+
+#: widgets/twitter/twitter.php:286
+msgid "Tweets number"
+msgstr ""
+
+#: widgets/twitter/twitter.php:287
+msgid "Tweets number to show in the feed"
+msgstr ""
+
+#: widgets/twitter/twitter.php:306
+msgid "Widget background"
+msgstr ""
+
+#: widgets/twitter/twitter.php:307
+msgid ""
+"Select or upload image or write URL from other site for use it as widget "
+"background"
+msgstr ""
+
+#: widgets/twitter/twitter.php:312
+msgid "Show Follow Us"
+msgstr ""
+
+#: widgets/twitter/twitter.php:313
+msgid "Do you want display Follow Us link below the feed?"
+msgstr ""
+
+#: widgets/twitter/twitter.php:320 widgets/twitter/twitter.php:321
+msgid "Twitter Username"
+msgstr ""
+
+#: widgets/twitter/twitter.php:322 widgets/twitter/twitter.php:329
+#: widgets/twitter/twitter.php:336 widgets/twitter/twitter.php:343
+#: widgets/twitter/twitter.php:350
+msgid "Twitter account"
+msgstr ""
+
+#: widgets/twitter/twitter.php:327
+msgid "Consumer Key"
+msgstr ""
+
+#: widgets/twitter/twitter.php:328
+msgid "Specify Consumer Key from Twitter application"
+msgstr ""
+
+#: widgets/twitter/twitter.php:334
+msgid "Consumer Secret"
+msgstr ""
+
+#: widgets/twitter/twitter.php:335
+msgid "Specify Consumer Secret from Twitter application"
+msgstr ""
+
+#: widgets/twitter/twitter.php:341
+msgid "Token Key"
+msgstr ""
+
+#: widgets/twitter/twitter.php:342
+msgid "Specify Token Key from Twitter application"
+msgstr ""
+
+#: widgets/twitter/twitter.php:348
+msgid "Token Secret"
+msgstr ""
+
+#: widgets/twitter/twitter.php:349
+msgid "Specify Token Secret from Twitter application"
+msgstr ""
+
+#: widgets/twitter/twitter.php:367
+msgid "Widget Twitter"
+msgstr ""
+
+#: widgets/twitter/twitter.php:368
+msgid "Insert widget with Twitter feed"
+msgstr ""
+
+#: widgets/video/video.php:22
+msgid "Show video from Youtube, Vimeo, etc."
+msgstr ""
+
+#: widgets/video/video.php:23
+msgid "ThemeREX Addons - Video player"
+msgstr ""
+
+#: widgets/video/video.php:92
+msgid "Link to video:"
+msgstr ""
+
+#: widgets/video/video.php:97
+msgid "or paste HTML code to embed video:"
+msgstr ""
+
+#: widgets/video/video.php:178
+msgid "Widget Video player"
+msgstr ""
+
+#: widgets/video/video.php:179
+msgid ""
+"Insert widget with embedded video from popular video hosting: Vimeo, "
+"Youtube, etc."
+msgstr ""
+
+#: widgets/video/video.php:203
+msgid "Link to video"
+msgstr ""
+
+#: widgets/video/video.php:210
+msgid "or paste Embed code"
+msgstr ""
+
+#: widgets/video/video.php:211
+msgid "or paste the HTML code to embed video"
+msgstr ""
+
+#: widgets/widgets.php:61
+msgid "Add custom widgets area"
+msgstr ""
+
+#: widgets/widgets.php:65
+msgid "Name (required):"
+msgstr ""
+
+#: widgets/widgets.php:69
+msgid "Description:"
+msgstr ""
+
+#: widgets/widgets.php:74
+msgid "Add"
+msgstr ""
+
+#: widgets/widgets.php:74
+msgid ""
+"To create new widgets area specify it name (required) and description "
+"(optional) and press this button"
+msgstr ""
+
+#: widgets/widgets.php:75
+msgid "Delete"
+msgstr ""
+
+#: widgets/widgets.php:75
+msgid ""
+"To delete custom widgets area specify it name (required) and press this "
+"button"
+msgstr ""
